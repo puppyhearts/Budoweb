@@ -1,0 +1,29 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+artofjiujitsu.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22region%22%3A%22CABC%22%2C%22reg%22%3A%22%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22m%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%7D
+artofjiujitsu.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fpages%2Facademy
+t.cometlytrack.com	TRUE	/	FALSE	1999999999	gnbxc8xqNWlkhsxX26ZSI1UDGHP5S5zqzSdKEqPv	eyJpdiI6Ik14c3hUaS9taE1EcXM0UGZUZWtzUXc9PSIsInZhbHVlIjoibmtQd0x1S0xvdEVZWGdkdTdBUVpiNWFaTHpvK0h4NFFhVEVwWUNTREdzOGlWQkR0QzlvdmdYV0pTSGloT1BLL21iOW5ubjVqdzhKanhaa2dYOUlNVklKWFBkR2JSdEZyVkMrTzFOUmVLa0tlNExqeVpDb1ZZakZPSGp4RzJxYzYwb3JZdXJyY3ZOZ1R5bHl2amZuYlZsdGwwN0xGeFRHWWc3cTZ4WitTcEdPVlNtTVhuSnY2MkJFUWtRd2V5NHo2dEdkT0hiYkpnY0FQUUc1SWg3SXNBWm5VRWpvRXppUTd4Z1kwWDR6MkhIek5pY25FU25ZV3loWlUyM1hzb24xVVErN3Q4dW1OWVp0Q081VUxoR05YVTd3em53V1RyakVNR1o1M2VORHo4NFZqMzBOblBFK1hBWHF3d3VZTnQ3Q3FLQUcvcmxWY3lPWDRXR01ld0FMNWlyTzZxTGlFWkhWbWoyc3JjdGc1ZU9rQXRWMjE4djNpMlBBUG1TWWxlQk1TbGpWL3FCZXdlYlBIcjYzaklLRkdsZz09IiwibWFjIjoiNGM0ZDJkMGI5MTBmNGFhZmQ1ZjljMThkODU2ZWYwODljYTZkZWNkYzVjMjY2ZjMwZDE5YmMyOGJmMzgyZjllOSIsInRhZyI6IiJ9
+t.cometlytrack.com	TRUE	/	FALSE	1999999999	cometly_tracker_session	eyJpdiI6IkRTTlE5QzhSZjdhTGw1WHEvSFlqRXc9PSIsInZhbHVlIjoiUk9Rcis2YStkbzFCNWY0cHVkUFdUcEhubWRRS3pWTHZ5WlVnVmR5aStlY0p2WTRKNEpTTHE2M3NVblBMVXFBTExlT1E2QzQzWmJoYWRMczJwZHd3ajlpdXdzT2kybnVycmFnL04ybGRucnN2VzdERldhM1IvRHRmQVNYZW9RMGIiLCJtYWMiOiIyNTYxNjZiMzY1NTYzMzNiZjFiODcxYjhhZDVhZjI4NDJlZDQ5NWQ5NGQ4OWQ3ZTFlNWM0YzkwOGJhZTRjNDEyIiwidGFnIjoiIn0%3D
+t.cometlytrack.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	eyJpdiI6IjJERXRtemRWUGFDWkpsaE5mK05OZGc9PSIsInZhbHVlIjoiSm9lN2pGRENzYmNWU2lVOG1yZy9NUHVyVkhRL1QzcWdQMlBjS1ErajlzbWE5SlBlckJzdzNjR2VLaGs5Z0VmZzFiT1hzUmFtL3Bhc1N3UmFtTmFoZlBwSnBENVgrQTBTelB0L1NuRlNmTFFBaHBoaXFMbVV6cmdmNUpBRWIyQVkiLCJtYWMiOiIwYTAyYzAyMWY1YThmYWEyOGI5YThkOGY4NmQ1ZDBlOTYyMTA2ZDU4YmEwODg5ZjI5ZjQ3MTM1NTNlMThlY2NmIiwidGFnIjoiIn0%3D
+t.cometlytrack.com	TRUE	/	FALSE	1999999999	samesite	lax
+aojplus.artofjiujitsu.com	TRUE	/	FALSE	1999999999	user_referrer	http%3A%2F%2Fartofjiujitsu.com%2Fpages%2Facademy
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	EqGiPYLs5es
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	TcAGMnlsxOc
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_PRIVACY_METADATA	CgJDQRIEGgAgRA%3D%3D
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+artofjiujitsu.com	TRUE	/	FALSE	1999999999	keep_alive	1fed2065-afb7-4fed-84fa-b18448c2d87f
+artofjiujitsu.com	TRUE	/	FALSE	1999999999	localization	US
+artofjiujitsu.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+artofjiujitsu.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+artofjiujitsu.com	TRUE	/	FALSE	1999999999	_shopify_y	125c481f-a637-4e7f-9dfa-c1837e7ad506
+artofjiujitsu.com	TRUE	/	FALSE	1999999999	_shopify_s	6a5efa9c-7395-4e4b-8013-fe9a58c67ac5
+artofjiujitsu.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+aojplus.artofjiujitsu.com	TRUE	/	FALSE	1999999999	pixel_session	8137d19f-a678-4901-a775-228eadac786d
+aojplus.artofjiujitsu.com	TRUE	/	FALSE	1999999999	referer	http%3A%2F%2Faojplus.artofjiujitsu.com%2Fcheckout%2Fnew%3Fo%3D136855
+aojplus.artofjiujitsu.com	TRUE	/	FALSE	1999999999	country_code	CA
+aojplus.artofjiujitsu.com	TRUE	/	FALSE	1999999999	ip_address	75.156.114.201
+aojplus.artofjiujitsu.com	TRUE	/	FALSE	1999999999	agent	Mozilla%2F4.5+%28compatible%3B+HTTrack+3.0x%3B+Windows+98%29
+aojplus.artofjiujitsu.com	TRUE	/	FALSE	1999999999	started_at	2024-04-27+17%3A02%3A48+UTC
+aojplus.artofjiujitsu.com	TRUE	/	FALSE	1999999999	initialized	true
+aojplus.artofjiujitsu.com	TRUE	/	FALSE	1999999999	_uscreen2_session	NFRZUjl2eFZ6OW04NHdVTzIrMWY1a2R6eFFnbjlqMW1tWklDd2tQWU43NGRocnNWSkd4NmVTeVoxRmRoTjVUc0dmSUFPL0dGY0pJVkJOb0NoRXZKVFlQQXhZeFRPSi9nMXVXRTNVMTVIVjU0cWFENzF3Y3Q4WG5ZeEdNNUlrUDYxZUJseEZOZ25OY0JxT0JwZEt1ZjRhRG1adVJnWi92K3plWGQybC9IUkdBPS0tRkdWMnNDcENMeXA0dFd3cUZicC8wQT09--7a79b13f4fbc653d4d3fc8d72c6849aa58f83d32
+

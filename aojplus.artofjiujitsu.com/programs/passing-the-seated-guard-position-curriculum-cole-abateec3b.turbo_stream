@@ -1,0 +1,939 @@
+<!DOCTYPE html><html><head><meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ByWV6LrVB2csULJ0fJHyKOdA2C1gTyE4AoEbZxcCF3n3uXM39-epyVrOvLwlf1-aC1YJdGT8280qhsAY4xzqXQ" /></head><body>
+<turbo-stream action="update" target="program_show"><template>
+  <turbo-frame data-viewing-session-id="cc6b4c0ac0b9869f092fe4b4d4bdc55899647cb92a7f703239114db8c0461829" id="program_player">
+      <div class="hidden"
+     data-controller="integrations"
+     data-integrations-facebook-pixel-enabled-value="false"
+     data-integrations-google-tag-manager-enabled-value="true"
+     data-integrations-google-analytics-enabled-value="true"
+>
+  <span class="hidden"
+        data-integrations-target="gTag"
+        data-event="ViewContent"
+        data-payload-attributes='["content_name"]'
+        data-payload-values='[&quot;Passing The Seated Guard Position (NOGI)&quot;]'
+  ></span>
+  <span class="hidden"
+        data-integrations-target="fbPx"
+        data-event="ViewContent"
+        data-payload-attributes='["content_name"]'
+        data-payload-values='[&quot;Passing The Seated Guard Position (NOGI)&quot;]'
+  ></span>
+</div>
+
+<div class="collection pt-0 lg:pt-4">
+    <div
+      class='container hotwired'
+      id="collection_cover"
+      data-controller="program program-details-modal"
+      data-program-id="2684873"
+    >
+      
+<ds-modal no-background="" size="small" with-close-icon id="more-details-modal" data-action="close->program-details-modal#closeDetailModal">
+  <div class="bg-ds-default">
+    <div class="p-6 pb-0 max-h-[calc(100vh-190px)] overflow-y-auto">
+      <p class="text-ds-default text-ds-large-bold mb-4">Passing The Seated Guard Position (NOGI)</p>
+      <p class="text-ds-small-semi-bold-uppercase text-ds-muted mb-4">About</p>
+      <div class="content-description text-ds-base-regular text-ds-default mb-6" data-program-details-modal-target="modalContent"></div>
+      <div class="p-4 bg-ds-overlay flex flex-col gap-2 rounded overflow-x-auto">
+        <div class="flex w-full gap-2">
+          <div class="text-ds-small-medium text-ds-default w-[100px]">Released</div>
+          <div class="text-ds-small-regular text-ds-default">October 2023</div>
+        </div>
+          <div class="flex w-full gap-2">
+              <div class="text-ds-small-medium text-ds-default w-[100px] shrink-0">Categories</div>
+            <div class="flex flex-col w-full">
+                <div class="flex">
+                  <a
+                    class="shrink-0 text-primary text-ds-small-medium inline-block mr-1"
+                    target="_blank"
+                    href="/categories/curriculum"
+                  >
+                    Curriculum
+                  </a>
+                  <span class="shrink-0 inline-block text-ds-small-regular text-ds-muted">
+                    (774 videos)
+                  </span>
+                </div>
+                <div class="flex">
+                  <a
+                    class="shrink-0 text-primary text-ds-small-medium inline-block mr-1"
+                    target="_blank"
+                    href="/categories/recently-added"
+                  >
+                    Recently Added
+                  </a>
+                  <span class="shrink-0 inline-block text-ds-small-regular text-ds-muted">
+                    (1385 videos)
+                  </span>
+                </div>
+            </div>
+          </div>
+      </div>
+    </div>
+    <div class="text-right p-6 pt-2">
+      <ds-button variant="primary" onclick="document.getElementById('more-details-modal').close()">Close</ds-button>
+    </div>
+  </div>
+</ds-modal>
+
+<div class="flex flex-col lg:flex-row gap-x-12">
+    <div class="h-full w-full lg:w-[55%] relative">
+        <img src="https://alpha.uscreencdn.com/images/programs/2684873/horizontal/cole.1698418347.jpg" class="aspect-video rounded h-auto">
+    </div>
+  <div id="program_about" class="w-full lg:w-[45%] lg:mb-5">
+      <p class="text-primary text-ds-tiny-bold-uppercase mb-1 mt-4 lg:mt-0">
+        <ds-icon class="inline-block align-sub" size="16px" name='playlist'></ds-icon> Collection
+      </p>
+      <h1 class="text-ds-title-2-semi-bold mt-2 lg:mt-0">
+        Passing The Seated Guard Position (NOGI)
+      </h1>
+      <div class="mt-2">
+        <span class="inline-block">
+            <ds-avatar
+              style="--ds-avatar-size: 1.5rem;"
+              class="inline-block "
+              size="xxxs"
+              url="https://alpha.uscreencdn.com/images/author/50055/small_IMGL0371.1648575761.jpg"
+              text="Cole Abate">
+            </ds-avatar>
+        </span>
+        <span class="inline-block align-super text-ds-default text-ds-small-regular">
+          Cole Abate
+        </span>
+      </div>
+    <div class="mt-4 text-ds-small-regular">
+      <div aria-expanded=true class="content-description line-clamp-3 max-h-[60px] xl:line-clamp-[7] xl:max-h-[140px] xl:aria-expanded:line-clamp-[11] xl:aria-expanded:max-h-[220px]" data-program-details-modal-target="description">
+        <div class="editor-content"><p>NOGI Curriculum series taught by black belt Cole Abate focused on Passing the Seated Guard position.</p></div>
+      </div>
+      <ds-button variant="text" data-action="click->program-details-modal#openDetailModal" class="cursor-pointer">Learn more</ds-button>
+    </div>
+    <div class="mt-4 flex flex-col sm:flex-row gap-2 ">
+            <ds-dropdown data-test="subscriptions-list" float="center" sm="float:left" class="w-full">
+              <ds-button class="w-full" slot="control" variant="primary">
+                  Subscribe to watch
+                <ds-icon slot="after" name='chevron-down'></ds-icon>
+              </ds-button>
+              <div
+                slot="content"
+                class="p-6 pt-4 w-screen max-w-screen-md sm:max-w-md box-border sm:w-auto"
+              >
+                <p class="text-ds-small-regular mb-4">Select a membership:</p>
+                  <a
+                    href="/checkout/new?o=69905"
+                    class="mb-4 last:mb-0 rounded w-full border border-solid border-ds-default flex hover:opacity-70 transition-opacity"
+                  >
+                      <div class="h-[4rem] sm:h-[7rem] max-w-[112px] w-full sm:max-w-[192px] flex shrink-0">
+                        <img class="h-full max-w-full max-h-full rounded-l mr-auto" src="https://alpha.uscreencdn.com/images/offer/69905/big_MONTHLY-SUBSCRIPTION.1669176440.jpg">
+                      </div>
+                    <div class="py-1 px-2 sm:px-3 sm:py-3 flex flex-col items-start justify-center w-full">
+                      <p class="text-ds-tiny-bold-uppercase text-primary">
+                        Monthly
+                      </p>
+                      <p class="!hidden sm:!block text-ds-tiny-regular mb-1 max-x-[2rem] overflow-hidden">
+                        Monthly Subscription
+                      </p>
+                        <div class="flex flex-col items-start">
+                          <span class="text-ds-base-semi-bold">
+                            Free for 3 days
+                          </span>
+                          <span class="text-ds-tiny-regular text-ds-muted sm:whitespace-nowrap">
+                            USD $24.99/month after trial
+                          </span>
+                        </div>
+                    </div>
+                  </a>
+                  <a
+                    href="/checkout/new?o=68715"
+                    class="mb-4 last:mb-0 rounded w-full border border-solid border-ds-default flex hover:opacity-70 transition-opacity"
+                  >
+                      <div class="h-[4rem] sm:h-[7rem] max-w-[112px] w-full sm:max-w-[192px] flex shrink-0">
+                        <img class="h-full max-w-full max-h-full rounded-l mr-auto" src="https://alpha.uscreencdn.com/images/offer/68715/big_12-MONTH-SUBSCRIPTION.1669176396.jpg">
+                      </div>
+                    <div class="py-1 px-2 sm:px-3 sm:py-3 flex flex-col items-start justify-center w-full">
+                      <p class="text-ds-tiny-bold-uppercase text-primary">
+                        Annually
+                      </p>
+                      <p class="!hidden sm:!block text-ds-tiny-regular mb-1 max-x-[2rem] overflow-hidden">
+                        12 Month Subscription
+                      </p>
+                        <div class="flex flex-col items-start">
+                          <span class="text-ds-base-semi-bold">
+                            Free for 3 days
+                          </span>
+                          <span class="text-ds-tiny-regular text-ds-muted sm:whitespace-nowrap">
+                            USD $249.99/year after trial
+                          </span>
+                        </div>
+                    </div>
+                  </a>
+              </div>
+            </ds-dropdown>
+    </div>
+  </div>
+</div>
+
+    </div>
+
+  <div class="collection-videos relative bg-ds-overlay border-y border-ds-default mt-4" id="program_playlist">
+    <div class="container">
+      <div
+        class="py-8"
+        data-area="playlist"
+        data-controller="playlist-modal"
+        data-playlist-modal-root-url-value="https://aojplus.artofjiujitsu.com"
+      >
+          <ds-modal
+            id="free-video-modal"
+            size="large"
+            with-close-icon
+            close-icon-in-backdrop
+            no-background
+            
+            data-action="close->playlist-modal#stopVideo"
+            data-playlist-modal-target="modal"
+          >
+            <div data-controller="integrations"
+                 data-integrations-facebook-pixel-enabled-value="false"
+                 data-integrations-google-tag-manager-enabled-value="true"
+                 data-integrations-google-analytics-enabled-value="true"
+                 class="bg-ds-subtle"
+            >
+              <turbo-frame id="free_program"></turbo-frame>            </div>
+          </ds-modal>
+
+        <div class="flex items-center justify-between mb-5">
+          <p class="collection-videos-counter text-ds-tiny-semi-bold-uppercase" data-area="counter">
+            <ds-icon size="16px" class="pr-1 inline-block align-bottom" name='playlist'></ds-icon>
+            Videos (19)
+          </p>
+        </div>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            Week 01 
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3440010">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Posture On Top And Goals From Opponent on Bottom" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684864/horizontal/w1-01-.1698188029.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684864/horizontal/w1-01-.1698188029.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684864/horizontal/w1-01-.1698188029.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684864/horizontal/w1-01-.1698188029.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:50</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Posture On Top And Goals From Opponent on Bottom</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3440011">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Putting Opponent Down Option 01" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684860/horizontal/w1-02-.1698187643.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684860/horizontal/w1-02-.1698187643.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684860/horizontal/w1-02-.1698187643.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684860/horizontal/w1-02-.1698187643.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">04:05</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Putting Opponent Down Option 01</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3440012">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Putting Down Option 02" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684862/horizontal/w1-03-.1698187812.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684862/horizontal/w1-03-.1698187812.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684862/horizontal/w1-03-.1698187812.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684862/horizontal/w1-03-.1698187812.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">04:20</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Putting Down Option 02</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3440013">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Using Option 01 Or 02 To Set Up The Body lock" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684858/horizontal/w1-04-.1698187507.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684858/horizontal/w1-04-.1698187507.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684858/horizontal/w1-04-.1698187507.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684858/horizontal/w1-04-.1698187507.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:45</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Using Option 01 Or 02 To Set Up The Body lock</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3440014">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Putting Opponent Down By Splitting The Legs" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684893/horizontal/w1-05-.1698357383.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684893/horizontal/w1-05-.1698357383.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684893/horizontal/w1-05-.1698357383.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684893/horizontal/w1-05-.1698357383.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">05:13</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Putting Opponent Down By Splitting The Legs</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3440015">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Drilling Week 01 Techniques " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684892/horizontal/w1-06.1698357243.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684892/horizontal/w1-06.1698357243.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684892/horizontal/w1-06.1698357243.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684892/horizontal/w1-06.1698357243.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:00</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Drilling Week 01 Techniques </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            Week 02 
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3440017">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Passing To The North South Position" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684885/horizontal/w2-01-.1698356679.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684885/horizontal/w2-01-.1698356679.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684885/horizontal/w2-01-.1698356679.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684885/horizontal/w2-01-.1698356679.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:34</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Passing To The North South Position</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3440018">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Reactions From North South Pass Leading To Submissions " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684882/horizontal/w2-02-.1698356849.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684882/horizontal/w2-02-.1698356849.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684882/horizontal/w2-02-.1698356849.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684882/horizontal/w2-02-.1698356849.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:34</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Reactions From North South Pass Leading To Submissions </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3440019">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Connecting To Front Head Lock Attacks From Pass Defense " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684890/horizontal/w2-03-.1698356999.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684890/horizontal/w2-03-.1698356999.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684890/horizontal/w2-03-.1698356999.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684890/horizontal/w2-03-.1698356999.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:04</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Connecting To Front Head Lock Attacks From Pass Defense </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3440020">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Drilling Session Connecting Week 01 And Week 02" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684880/horizontal/w2-04.1698357153.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684880/horizontal/w2-04.1698357153.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684880/horizontal/w2-04.1698357153.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684880/horizontal/w2-04.1698357153.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:27</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Drilling Session Connecting Week 01 And Week 02</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            Week 03 
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3448905">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Stack Pass To Leg Drag From Outside Passing" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2694652/horizontal/w3-01.1698791670.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2694652/horizontal/w3-01.1698791670.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2694652/horizontal/w3-01.1698791670.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2694652/horizontal/w3-01.1698791670.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">09:35</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Stack Pass To Leg Drag From Outside Passing</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3448906">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Turning The Corner To Establish The Pass" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2694643/horizontal/w3-02.1698791402.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2694643/horizontal/w3-02.1698791402.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2694643/horizontal/w3-02.1698791402.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2694643/horizontal/w3-02.1698791402.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">08:48</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Turning The Corner To Establish The Pass</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3448907">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Longstep Option From Stack Pass Situation " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2694631/horizontal/w3-03-.1698790869.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2694631/horizontal/w3-03-.1698790869.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2694631/horizontal/w3-03-.1698790869.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2694631/horizontal/w3-03-.1698790869.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:33</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Longstep Option From Stack Pass Situation </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3448908">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Using The Stack Pass To Expose Opponents Back " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2694640/horizontal/w3-04-.1698791278.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2694640/horizontal/w3-04-.1698791278.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2694640/horizontal/w3-04-.1698791278.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2694640/horizontal/w3-04-.1698791278.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">08:13</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Using The Stack Pass To Expose Opponents Back </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            Week 04 
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3448910">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Using Same Side Underhook Grip To Stack Pass" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2694627/horizontal/w4-04.1698790481.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2694627/horizontal/w4-04.1698790481.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2694627/horizontal/w4-04.1698790481.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2694627/horizontal/w4-04.1698790481.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:20</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Using Same Side Underhook Grip To Stack Pass</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3448911">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Connecting Shin Pin To The Duck Under Pass" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2694647/horizontal/w4-02.1698791460.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2694647/horizontal/w4-02.1698791460.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2694647/horizontal/w4-02.1698791460.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2694647/horizontal/w4-02.1698791460.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">08:48</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Connecting Shin Pin To The Duck Under Pass</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3448912">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Using The Shin Pin To Set Up Stack Pass Options " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2694639/horizontal/w4-03-.1698790978.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2694639/horizontal/w4-03-.1698790978.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2694639/horizontal/w4-03-.1698790978.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2694639/horizontal/w4-03-.1698790978.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:49</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Using The Shin Pin To Set Up Stack Pass Options </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3448913">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Using Underhook On Nearside Leg To Set Up Stack Pass" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2694621/horizontal/w4-01.1698790260.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2694621/horizontal/w4-01.1698790260.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2694621/horizontal/w4-01.1698790260.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2694621/horizontal/w4-01.1698790260.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">05:44</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Using Underhook On Nearside Leg To Set Up Stack Pass</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3448914">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Formulating Drilling Session for Week 04" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2694618/horizontal/w4-05.1698790023.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2694618/horizontal/w4-05.1698790023.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2694618/horizontal/w4-05.1698790023.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2694618/horizontal/w4-05.1698790023.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:31</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Formulating Drilling Session for Week 04</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+            </ds-swiper>
+        <ds-show-more
+          style="--ds-show-more-fade-color: transparent;"
+          content-not-clickable
+          class="!hidden md:!block"
+          float="center"
+          disabled="true"
+          once
+          max-height="550"
+          md="disabled:false"
+          lg="max-height:900"
+        >
+          <ds-button slot="button" class="collection-videos-button mt-6">Show all videos</ds-button>
+          <div slot="content" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6" data-area="chapters">
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    Week 01 
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3440010">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Posture On Top And Goals From Opponent on Bottom" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684864/horizontal/w1-01-.1698188029.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684864/horizontal/w1-01-.1698188029.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684864/horizontal/w1-01-.1698188029.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684864/horizontal/w1-01-.1698188029.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:50</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Posture On Top And Goals From Opponent on Bottom</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3440011">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Putting Opponent Down Option 01" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684860/horizontal/w1-02-.1698187643.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684860/horizontal/w1-02-.1698187643.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684860/horizontal/w1-02-.1698187643.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684860/horizontal/w1-02-.1698187643.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">04:05</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Putting Opponent Down Option 01</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3440012">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Putting Down Option 02" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684862/horizontal/w1-03-.1698187812.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684862/horizontal/w1-03-.1698187812.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684862/horizontal/w1-03-.1698187812.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684862/horizontal/w1-03-.1698187812.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">04:20</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Putting Down Option 02</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3440013">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Using Option 01 Or 02 To Set Up The Body lock" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684858/horizontal/w1-04-.1698187507.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684858/horizontal/w1-04-.1698187507.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684858/horizontal/w1-04-.1698187507.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684858/horizontal/w1-04-.1698187507.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:45</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Using Option 01 Or 02 To Set Up The Body lock</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3440014">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Putting Opponent Down By Splitting The Legs" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684893/horizontal/w1-05-.1698357383.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684893/horizontal/w1-05-.1698357383.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684893/horizontal/w1-05-.1698357383.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684893/horizontal/w1-05-.1698357383.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">05:13</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Putting Opponent Down By Splitting The Legs</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3440015">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Drilling Week 01 Techniques " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684892/horizontal/w1-06.1698357243.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684892/horizontal/w1-06.1698357243.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684892/horizontal/w1-06.1698357243.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684892/horizontal/w1-06.1698357243.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:00</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Drilling Week 01 Techniques </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    Week 02 
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3440017">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Passing To The North South Position" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684885/horizontal/w2-01-.1698356679.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684885/horizontal/w2-01-.1698356679.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684885/horizontal/w2-01-.1698356679.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684885/horizontal/w2-01-.1698356679.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:34</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Passing To The North South Position</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3440018">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Reactions From North South Pass Leading To Submissions " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684882/horizontal/w2-02-.1698356849.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684882/horizontal/w2-02-.1698356849.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684882/horizontal/w2-02-.1698356849.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684882/horizontal/w2-02-.1698356849.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:34</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Reactions From North South Pass Leading To Submissions </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3440019">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Connecting To Front Head Lock Attacks From Pass Defense " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684890/horizontal/w2-03-.1698356999.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684890/horizontal/w2-03-.1698356999.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684890/horizontal/w2-03-.1698356999.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684890/horizontal/w2-03-.1698356999.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:04</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Connecting To Front Head Lock Attacks From Pass Defense </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3440020">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Drilling Session Connecting Week 01 And Week 02" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2684880/horizontal/w2-04.1698357153.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2684880/horizontal/w2-04.1698357153.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2684880/horizontal/w2-04.1698357153.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2684880/horizontal/w2-04.1698357153.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:27</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Drilling Session Connecting Week 01 And Week 02</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    Week 03 
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3448905">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Stack Pass To Leg Drag From Outside Passing" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2694652/horizontal/w3-01.1698791670.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2694652/horizontal/w3-01.1698791670.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2694652/horizontal/w3-01.1698791670.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2694652/horizontal/w3-01.1698791670.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">09:35</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Stack Pass To Leg Drag From Outside Passing</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3448906">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Turning The Corner To Establish The Pass" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2694643/horizontal/w3-02.1698791402.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2694643/horizontal/w3-02.1698791402.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2694643/horizontal/w3-02.1698791402.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2694643/horizontal/w3-02.1698791402.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">08:48</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Turning The Corner To Establish The Pass</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3448907">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Longstep Option From Stack Pass Situation " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2694631/horizontal/w3-03-.1698790869.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2694631/horizontal/w3-03-.1698790869.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2694631/horizontal/w3-03-.1698790869.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2694631/horizontal/w3-03-.1698790869.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:33</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Longstep Option From Stack Pass Situation </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3448908">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Using The Stack Pass To Expose Opponents Back " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2694640/horizontal/w3-04-.1698791278.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2694640/horizontal/w3-04-.1698791278.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2694640/horizontal/w3-04-.1698791278.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2694640/horizontal/w3-04-.1698791278.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">08:13</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Using The Stack Pass To Expose Opponents Back </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    Week 04 
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3448910">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Using Same Side Underhook Grip To Stack Pass" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2694627/horizontal/w4-04.1698790481.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2694627/horizontal/w4-04.1698790481.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2694627/horizontal/w4-04.1698790481.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2694627/horizontal/w4-04.1698790481.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:20</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Using Same Side Underhook Grip To Stack Pass</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3448911">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Connecting Shin Pin To The Duck Under Pass" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2694647/horizontal/w4-02.1698791460.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2694647/horizontal/w4-02.1698791460.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2694647/horizontal/w4-02.1698791460.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2694647/horizontal/w4-02.1698791460.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">08:48</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Connecting Shin Pin To The Duck Under Pass</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3448912">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Using The Shin Pin To Set Up Stack Pass Options " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2694639/horizontal/w4-03-.1698790978.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2694639/horizontal/w4-03-.1698790978.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2694639/horizontal/w4-03-.1698790978.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2694639/horizontal/w4-03-.1698790978.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:49</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Using The Shin Pin To Set Up Stack Pass Options </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3448913">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Using Underhook On Nearside Leg To Set Up Stack Pass" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2694621/horizontal/w4-01.1698790260.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2694621/horizontal/w4-01.1698790260.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2694621/horizontal/w4-01.1698790260.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2694621/horizontal/w4-01.1698790260.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">05:44</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Using Underhook On Nearside Leg To Set Up Stack Pass</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3448914">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Formulating Drilling Session for Week 04" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2694618/horizontal/w4-05.1698790023.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2694618/horizontal/w4-05.1698790023.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2694618/horizontal/w4-05.1698790023.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2694618/horizontal/w4-05.1698790023.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:31</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Formulating Drilling Session for Week 04</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+          </div>
+        </ds-show-more>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+</turbo-frame></template></turbo-stream></body></html>

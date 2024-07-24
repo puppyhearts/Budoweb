@@ -1,0 +1,1012 @@
+<!DOCTYPE html><html><head><meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Fscs83G4g-v6U3Tla9E--nlm_Qw11JmCE_5njUolqxP-8mMSUhpu7JKbtyccdWmTzf61ZE4eUPlbj2Y_Yt_tSw" /></head><body>
+<turbo-stream action="update" target="program_show"><template>
+  <turbo-frame data-viewing-session-id="2a17eebefad5b5e084f5959c47aeed4a213af810acae20bf004957f797bbeddd" id="program_player">
+      <div class="hidden"
+     data-controller="integrations"
+     data-integrations-facebook-pixel-enabled-value="false"
+     data-integrations-google-tag-manager-enabled-value="true"
+     data-integrations-google-analytics-enabled-value="true"
+>
+  <span class="hidden"
+        data-integrations-target="gTag"
+        data-event="ViewContent"
+        data-payload-attributes='["content_name"]'
+        data-payload-values='[&quot;Game Theory&quot;]'
+  ></span>
+  <span class="hidden"
+        data-integrations-target="fbPx"
+        data-event="ViewContent"
+        data-payload-attributes='["content_name"]'
+        data-payload-values='[&quot;Game Theory&quot;]'
+  ></span>
+</div>
+
+<div class="collection pt-0 lg:pt-4">
+    <div
+      class='container hotwired'
+      id="collection_cover"
+      data-controller="program program-details-modal"
+      data-program-id="2139226"
+    >
+      
+<ds-modal no-background="" size="small" with-close-icon id="more-details-modal" data-action="close->program-details-modal#closeDetailModal">
+  <div class="bg-ds-default">
+    <div class="p-6 pb-0 max-h-[calc(100vh-190px)] overflow-y-auto">
+      <p class="text-ds-default text-ds-large-bold mb-4">Game Theory</p>
+      <p class="text-ds-small-semi-bold-uppercase text-ds-muted mb-4">About</p>
+      <div class="content-description text-ds-base-regular text-ds-default mb-6" data-program-details-modal-target="modalContent"></div>
+      <div class="p-4 bg-ds-overlay flex flex-col gap-2 rounded overflow-x-auto">
+        <div class="flex w-full gap-2">
+          <div class="text-ds-small-medium text-ds-default w-[100px]">Released</div>
+          <div class="text-ds-small-regular text-ds-default">March 2023</div>
+        </div>
+          <div class="flex w-full gap-2">
+              <div class="text-ds-small-medium text-ds-default w-[100px] shrink-0">Categories</div>
+            <div class="flex flex-col w-full">
+                <div class="flex">
+                  <a
+                    class="shrink-0 text-primary text-ds-small-medium inline-block mr-1"
+                    target="_blank"
+                    href="/categories/on-demand"
+                  >
+                    On Demand
+                  </a>
+                  <span class="shrink-0 inline-block text-ds-small-regular text-ds-muted">
+                    (610 videos)
+                  </span>
+                </div>
+                <div class="flex">
+                  <a
+                    class="shrink-0 text-primary text-ds-small-medium inline-block mr-1"
+                    target="_blank"
+                    href="/categories/recently-added"
+                  >
+                    Recently Added
+                  </a>
+                  <span class="shrink-0 inline-block text-ds-small-regular text-ds-muted">
+                    (1385 videos)
+                  </span>
+                </div>
+            </div>
+          </div>
+      </div>
+    </div>
+    <div class="text-right p-6 pt-2">
+      <ds-button variant="primary" onclick="document.getElementById('more-details-modal').close()">Close</ds-button>
+    </div>
+  </div>
+</ds-modal>
+
+<div class="flex flex-col lg:flex-row gap-x-12">
+    <div class="h-full w-full lg:w-[55%] relative">
+        <img src="https://alpha.uscreencdn.com/images/programs/2139226/horizontal/game-theory.1679019797.jpg" class="aspect-video rounded h-auto">
+    </div>
+  <div id="program_about" class="w-full lg:w-[45%] lg:mb-5">
+      <p class="text-primary text-ds-tiny-bold-uppercase mb-1 mt-4 lg:mt-0">
+        <ds-icon class="inline-block align-sub" size="16px" name='playlist'></ds-icon> Collection
+      </p>
+      <h1 class="text-ds-title-2-semi-bold mt-2 lg:mt-0">
+        Game Theory
+      </h1>
+      <div class="mt-2">
+        <span class="inline-block">
+            <ds-avatar
+              style="--ds-avatar-size: 1.5rem;"
+              class="inline-block "
+              size="xxxs"
+              url="https://alpha.uscreencdn.com/images/author/48305/small_small_tainan.1691512607.jpg"
+              text="Tainan Dalpra">
+            </ds-avatar>
+        </span>
+        <span class="inline-block align-super text-ds-default text-ds-small-regular">
+          Tainan Dalpra
+        </span>
+      </div>
+    <div class="mt-4 text-ds-small-regular">
+      <div aria-expanded=true class="content-description line-clamp-3 max-h-[60px] xl:line-clamp-[7] xl:max-h-[140px] xl:aria-expanded:line-clamp-[11] xl:aria-expanded:max-h-[220px]" data-program-details-modal-target="description">
+        <div class="editor-content"><p><strong><span style="font-size: 1.125rem">Purchase Link:</span></strong><span style="font-size: 1.125rem"> </span><a target="_blank" rel="noopener noreferrer nofollow" href="https://aojplus.artofjiujitsu.com/orders/checkout?c=2139226"><span style="font-size: 1.125rem">Here</span></a></p><p><strong><span style="font-size: 1.125rem">Series Overview:</span></strong><span style="font-size: 1.125rem"> </span><a target="_blank" rel="noopener noreferrer nofollow" href="https://aojplus.artofjiujitsu.com/pages/game-theory"><span style="font-size: 1.125rem">Learn More</span></a></p><p>-</p><p><strong><em>Game Theory is an On Demand series and not available in the AOJ+ subscription. The link to purchase is available above and grants lifetime access to the content. Please note that Game Theory must be purchased from either desktop or mobile browser before viewing on the AOJ+ app.</em></strong></p><p><em>-</em><br></p><p><strong>About the Series:</strong> </p><p>Game Theory documents the training and preparation of Tainan Dalpra &amp; Gui Mendes leading up to the 2023 IBJJF Grand Prix Superfight. The series is broken down into the following three sections:&nbsp;</p><ul><li><p><strong>Section 01: Off the Mat Analysis</strong></p><ul><li><p>Rising to the Challenge</p></li><li><p>Acting Like a Champion</p></li><li><p>Building a Strategy for Success</p></li><li><p>Analyzing the Competition</p></li><li><p>Getting Acclimated to the Environment</p></li></ul></li><li><p><strong>Section 02: Competition Breakdown</strong></p><ul><li><p>Match Analysis: 2023 IBJJF Grand Prix (Dalpra x Bahiense II)</p></li><li><p>Tainan Dalpra x Lucas Gualberto</p></li><li><p>Tainan Dalpra x Roberto Jimenez</p></li><li><p>Marcelo Garcia x Andre Galvao</p></li><li><p>Tainan Dalpra x Ronaldo Jr</p></li><li><p>Rodolfo Vieira x Bernardo Faria / Leandro Lo x Isaque Bahiense</p></li></ul></li><li><p><strong>Section 03: Technical Study</strong></p><ul><li><p>Situation 01: Guard Passing Posture</p></li><li><p>Situation 02: Passing with Underhook</p></li><li><p>Situation 03: X Guard to Double Pull</p></li><li><p>Situation 04: Isolating the Arm in Side Control</p></li><li><p>Situation 05: Double Underhook Passing</p></li><li><p>Situation 06: K Guard and Underhook Coming on Top</p></li><li><p>Situation 07: Beating the Deep Half Guard</p></li><li><p>Situation 08: Sleeve Grip and Shoulder Pin</p></li></ul></li></ul><br><p><strong>Series Overview:&nbsp;</strong></p><p>Videos: 21 Classes</p><p>Length: 4 hours 35 minutes</p><p>Language: English</p><p>Release: March 18, 2023</p></div>
+      </div>
+      <ds-button variant="text" data-action="click->program-details-modal#openDetailModal" class="cursor-pointer">Learn more</ds-button>
+    </div>
+    <div class="mt-4 flex flex-col sm:flex-row gap-2 ">
+          <ds-button class="w-full" href="/checkout/new?o=p2139226" variant="primary">
+            Buy $149.99</ds-button>
+    </div>
+  </div>
+</div>
+
+    </div>
+
+  <div class="collection-videos relative bg-ds-overlay border-y border-ds-default mt-4" id="program_playlist">
+    <div class="container">
+      <div
+        class="py-8"
+        data-area="playlist"
+        data-controller="playlist-modal"
+        data-playlist-modal-root-url-value="https://aojplus.artofjiujitsu.com"
+      >
+          <ds-modal
+            id="free-video-modal"
+            size="large"
+            with-close-icon
+            close-icon-in-backdrop
+            no-background
+            
+            data-action="close->playlist-modal#stopVideo"
+            data-playlist-modal-target="modal"
+          >
+            <div data-controller="integrations"
+                 data-integrations-facebook-pixel-enabled-value="false"
+                 data-integrations-google-tag-manager-enabled-value="true"
+                 data-integrations-google-analytics-enabled-value="true"
+                 class="bg-ds-subtle"
+            >
+              <turbo-frame id="free_program"></turbo-frame>            </div>
+          </ds-modal>
+
+        <div class="flex items-center justify-between mb-5">
+          <p class="collection-videos-counter text-ds-tiny-semi-bold-uppercase" data-area="counter">
+            <ds-icon size="16px" class="pr-1 inline-block align-bottom" name='playlist'></ds-icon>
+            Videos (22)
+          </p>
+        </div>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <a
+    data-action="click->playlist-modal#showVideo"
+    data-playlist-modal-permalink-param="on-demand-game-theory-tainan-dalpra-gui-mendes"
+    data-playlist-modal-item-id-param="3024072"
+    data-playlist-modal-subject-permalink-param="game-theory-trailer-tainan-dalpra-gui-mendes"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3024072"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Trailer: Game Theory (Tainan Dalpra &amp; Gui Mendes)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144655/horizontal/game-theory.1679031803.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144655/horizontal/game-theory.1679031803.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144655/horizontal/game-theory.1679031803.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144655/horizontal/game-theory.1679031803.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">00:54</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Trailer: Game Theory (Tainan Dalpra &amp; Gui Mendes)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            Off the Mat Analysis
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025125">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Rising To The Challenge" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2146477/horizontal/rising-to-the-challenge.1679162749.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2146477/horizontal/rising-to-the-challenge.1679162749.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2146477/horizontal/rising-to-the-challenge.1679162749.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2146477/horizontal/rising-to-the-challenge.1679162749.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">26:27</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Rising To The Challenge</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025126">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Acting Like A Champion" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2146484/horizontal/acting-like-a-champion.1679162978.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2146484/horizontal/acting-like-a-champion.1679162978.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2146484/horizontal/acting-like-a-champion.1679162978.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2146484/horizontal/acting-like-a-champion.1679162978.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">04:57</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Acting Like A Champion</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025159">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Building A Strategy For Success" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2146894/horizontal/strategy.1679170413.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2146894/horizontal/strategy.1679170413.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2146894/horizontal/strategy.1679170413.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2146894/horizontal/strategy.1679170413.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">19:05</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Building A Strategy For Success</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025127">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Analyzing The Opponent" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2146683/horizontal/analyzing.1679163257.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2146683/horizontal/analyzing.1679163257.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2146683/horizontal/analyzing.1679163257.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2146683/horizontal/analyzing.1679163257.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">22:00</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Analyzing The Opponent</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025128">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Getting Acclimated To The Environment" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2146486/horizontal/getting-acclimated.1679163131.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2146486/horizontal/getting-acclimated.1679163131.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2146486/horizontal/getting-acclimated.1679163131.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2146486/horizontal/getting-acclimated.1679163131.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">05:58</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Getting Acclimated To The Environment</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            Competition Breakdown
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025130">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="2023 IBJJF Grand Prix Superfight" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2145292/horizontal/2023-ibjjf-grand-prix.1679069090.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2145292/horizontal/2023-ibjjf-grand-prix.1679069090.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2145292/horizontal/2023-ibjjf-grand-prix.1679069090.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2145292/horizontal/2023-ibjjf-grand-prix.1679069090.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">47:27</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">2023 IBJJF Grand Prix Superfight</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025131">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Tainan Dalpra Versus Lucas Gualberto" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144697/horizontal/tainan-x-gualberto.1679039441.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144697/horizontal/tainan-x-gualberto.1679039441.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144697/horizontal/tainan-x-gualberto.1679039441.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144697/horizontal/tainan-x-gualberto.1679039441.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">09:30</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Tainan Dalpra Versus Lucas Gualberto</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025132">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Tainan Dalpra Versus Roberto Jimenez" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144706/horizontal/tainan-x-roberto.1679041778.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144706/horizontal/tainan-x-roberto.1679041778.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144706/horizontal/tainan-x-roberto.1679041778.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144706/horizontal/tainan-x-roberto.1679041778.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">08:47</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Tainan Dalpra Versus Roberto Jimenez</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025133">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Marcelo Garcia Versus Andre Galvao" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144708/horizontal/marcelo-x-andre.1679041832.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144708/horizontal/marcelo-x-andre.1679041832.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144708/horizontal/marcelo-x-andre.1679041832.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144708/horizontal/marcelo-x-andre.1679041832.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:12</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Marcelo Garcia Versus Andre Galvao</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025134">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Tainan Dalpra Versus Ronaldo Jr" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144713/horizontal/tainan-x-ronaldo.1679041878.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144713/horizontal/tainan-x-ronaldo.1679041878.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144713/horizontal/tainan-x-ronaldo.1679041878.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144713/horizontal/tainan-x-ronaldo.1679041878.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:44</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Tainan Dalpra Versus Ronaldo Jr</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025135">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Rodolfo Vieira Versus Bernardo Faria / Leandro Lo Versus Isaque Bahiense" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144731/horizontal/rodolfo-x-bernardo.1679043333.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144731/horizontal/rodolfo-x-bernardo.1679043333.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144731/horizontal/rodolfo-x-bernardo.1679043333.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144731/horizontal/rodolfo-x-bernardo.1679043333.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:08</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Rodolfo Vieira Versus Bernardo Faria / Leandro Lo Versus Isaque Bahiense</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            Technical Study
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025137">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Guard Passing Posture" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2146146/horizontal/situation-01.1679114826.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2146146/horizontal/situation-01.1679114826.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2146146/horizontal/situation-01.1679114826.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2146146/horizontal/situation-01.1679114826.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">18:51</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Guard Passing Posture</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025138">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Passing with Underhook" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2146117/horizontal/situation-02.1679112349.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2146117/horizontal/situation-02.1679112349.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2146117/horizontal/situation-02.1679112349.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2146117/horizontal/situation-02.1679112349.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">15:16</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Passing with Underhook</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025139">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="X Guard to Double Pull" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2146111/horizontal/situation-03.1679112296.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2146111/horizontal/situation-03.1679112296.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2146111/horizontal/situation-03.1679112296.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2146111/horizontal/situation-03.1679112296.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">18:39</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">X Guard to Double Pull</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025140">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Isolating The Arm" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144694/horizontal/situation-04.1679039006.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144694/horizontal/situation-04.1679039006.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144694/horizontal/situation-04.1679039006.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144694/horizontal/situation-04.1679039006.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:19</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Isolating The Arm</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025141">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Double Underhook Passing" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144689/horizontal/situation-05.1679037948.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144689/horizontal/situation-05.1679037948.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144689/horizontal/situation-05.1679037948.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144689/horizontal/situation-05.1679037948.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">09:43</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Double Underhook Passing</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025142">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="K Guard And Underhook" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144685/horizontal/situation-06.1679036995.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144685/horizontal/situation-06.1679036995.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144685/horizontal/situation-06.1679036995.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144685/horizontal/situation-06.1679036995.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:22</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">K Guard And Underhook</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025143">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Beating The Deep Half Guard" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144679/horizontal/situation-07.1679038004.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144679/horizontal/situation-07.1679038004.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144679/horizontal/situation-07.1679038004.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144679/horizontal/situation-07.1679038004.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:40</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Beating The Deep Half Guard</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3025144">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Sleeve Grip and Shoulder Pin" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144667/horizontal/situation-08.1679034391.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144667/horizontal/situation-08.1679034391.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144667/horizontal/situation-08.1679034391.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144667/horizontal/situation-08.1679034391.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">12:05</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Sleeve Grip and Shoulder Pin</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            Free Content
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <a
+    data-action="click->playlist-modal#showVideo"
+    data-playlist-modal-permalink-param="on-demand-game-theory-tainan-dalpra-gui-mendes"
+    data-playlist-modal-item-id-param="3025146"
+    data-playlist-modal-subject-permalink-param="game-theory-recognizing-the-opponents-style"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3025146"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Recognizing The Opponent&#39;s Style" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144639/horizontal/recognizing.1679031150.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144639/horizontal/recognizing.1679031150.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144639/horizontal/recognizing.1679031150.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144639/horizontal/recognizing.1679031150.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:20</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Recognizing The Opponent&#39;s Style</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    data-action="click->playlist-modal#showVideo"
+    data-playlist-modal-permalink-param="on-demand-game-theory-tainan-dalpra-gui-mendes"
+    data-playlist-modal-item-id-param="3025147"
+    data-playlist-modal-subject-permalink-param="game-theory-details-after-class-february-2023"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3025147"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Details After Class (February 2023)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2146697/horizontal/UGfPlZGn7Brf_g.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2146697/horizontal/UGfPlZGn7Brf_g.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2146697/horizontal/UGfPlZGn7Brf_g.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2146697/horizontal/UGfPlZGn7Brf_g.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">09:13</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Details After Class (February 2023)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+            </ds-swiper>
+        <ds-show-more
+          style="--ds-show-more-fade-color: transparent;"
+          content-not-clickable
+          class="!hidden md:!block"
+          float="center"
+          disabled="true"
+          once
+          max-height="550"
+          md="disabled:false"
+          lg="max-height:900"
+        >
+          <ds-button slot="button" class="collection-videos-button mt-6">Show all videos</ds-button>
+          <div slot="content" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6" data-area="chapters">
+                <a
+    data-action="click->playlist-modal#showVideo"
+    data-playlist-modal-permalink-param="on-demand-game-theory-tainan-dalpra-gui-mendes"
+    data-playlist-modal-item-id-param="3024072"
+    data-playlist-modal-subject-permalink-param="game-theory-trailer-tainan-dalpra-gui-mendes"
+    class="content-item block cursor-pointer"
+    data-cid="3024072"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Trailer: Game Theory (Tainan Dalpra &amp; Gui Mendes)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144655/horizontal/game-theory.1679031803.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144655/horizontal/game-theory.1679031803.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144655/horizontal/game-theory.1679031803.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144655/horizontal/game-theory.1679031803.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">00:54</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Trailer: Game Theory (Tainan Dalpra &amp; Gui Mendes)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    Off the Mat Analysis
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025125">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Rising To The Challenge" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2146477/horizontal/rising-to-the-challenge.1679162749.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2146477/horizontal/rising-to-the-challenge.1679162749.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2146477/horizontal/rising-to-the-challenge.1679162749.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2146477/horizontal/rising-to-the-challenge.1679162749.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">26:27</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Rising To The Challenge</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025126">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Acting Like A Champion" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2146484/horizontal/acting-like-a-champion.1679162978.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2146484/horizontal/acting-like-a-champion.1679162978.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2146484/horizontal/acting-like-a-champion.1679162978.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2146484/horizontal/acting-like-a-champion.1679162978.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">04:57</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Acting Like A Champion</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025159">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Building A Strategy For Success" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2146894/horizontal/strategy.1679170413.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2146894/horizontal/strategy.1679170413.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2146894/horizontal/strategy.1679170413.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2146894/horizontal/strategy.1679170413.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">19:05</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Building A Strategy For Success</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025127">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Analyzing The Opponent" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2146683/horizontal/analyzing.1679163257.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2146683/horizontal/analyzing.1679163257.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2146683/horizontal/analyzing.1679163257.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2146683/horizontal/analyzing.1679163257.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">22:00</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Analyzing The Opponent</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025128">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Getting Acclimated To The Environment" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2146486/horizontal/getting-acclimated.1679163131.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2146486/horizontal/getting-acclimated.1679163131.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2146486/horizontal/getting-acclimated.1679163131.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2146486/horizontal/getting-acclimated.1679163131.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">05:58</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Getting Acclimated To The Environment</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    Competition Breakdown
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025130">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="2023 IBJJF Grand Prix Superfight" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2145292/horizontal/2023-ibjjf-grand-prix.1679069090.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2145292/horizontal/2023-ibjjf-grand-prix.1679069090.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2145292/horizontal/2023-ibjjf-grand-prix.1679069090.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2145292/horizontal/2023-ibjjf-grand-prix.1679069090.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">47:27</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">2023 IBJJF Grand Prix Superfight</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025131">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Tainan Dalpra Versus Lucas Gualberto" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144697/horizontal/tainan-x-gualberto.1679039441.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144697/horizontal/tainan-x-gualberto.1679039441.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144697/horizontal/tainan-x-gualberto.1679039441.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144697/horizontal/tainan-x-gualberto.1679039441.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">09:30</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Tainan Dalpra Versus Lucas Gualberto</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025132">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Tainan Dalpra Versus Roberto Jimenez" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144706/horizontal/tainan-x-roberto.1679041778.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144706/horizontal/tainan-x-roberto.1679041778.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144706/horizontal/tainan-x-roberto.1679041778.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144706/horizontal/tainan-x-roberto.1679041778.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">08:47</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Tainan Dalpra Versus Roberto Jimenez</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025133">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Marcelo Garcia Versus Andre Galvao" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144708/horizontal/marcelo-x-andre.1679041832.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144708/horizontal/marcelo-x-andre.1679041832.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144708/horizontal/marcelo-x-andre.1679041832.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144708/horizontal/marcelo-x-andre.1679041832.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:12</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Marcelo Garcia Versus Andre Galvao</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025134">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Tainan Dalpra Versus Ronaldo Jr" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144713/horizontal/tainan-x-ronaldo.1679041878.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144713/horizontal/tainan-x-ronaldo.1679041878.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144713/horizontal/tainan-x-ronaldo.1679041878.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144713/horizontal/tainan-x-ronaldo.1679041878.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:44</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Tainan Dalpra Versus Ronaldo Jr</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025135">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Rodolfo Vieira Versus Bernardo Faria / Leandro Lo Versus Isaque Bahiense" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144731/horizontal/rodolfo-x-bernardo.1679043333.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144731/horizontal/rodolfo-x-bernardo.1679043333.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144731/horizontal/rodolfo-x-bernardo.1679043333.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144731/horizontal/rodolfo-x-bernardo.1679043333.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:08</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Rodolfo Vieira Versus Bernardo Faria / Leandro Lo Versus Isaque Bahiense</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    Technical Study
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025137">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Guard Passing Posture" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2146146/horizontal/situation-01.1679114826.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2146146/horizontal/situation-01.1679114826.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2146146/horizontal/situation-01.1679114826.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2146146/horizontal/situation-01.1679114826.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">18:51</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Guard Passing Posture</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025138">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Passing with Underhook" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2146117/horizontal/situation-02.1679112349.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2146117/horizontal/situation-02.1679112349.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2146117/horizontal/situation-02.1679112349.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2146117/horizontal/situation-02.1679112349.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">15:16</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Passing with Underhook</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025139">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="X Guard to Double Pull" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2146111/horizontal/situation-03.1679112296.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2146111/horizontal/situation-03.1679112296.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2146111/horizontal/situation-03.1679112296.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2146111/horizontal/situation-03.1679112296.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">18:39</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">X Guard to Double Pull</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025140">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Isolating The Arm" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144694/horizontal/situation-04.1679039006.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144694/horizontal/situation-04.1679039006.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144694/horizontal/situation-04.1679039006.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144694/horizontal/situation-04.1679039006.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:19</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Isolating The Arm</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025141">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Double Underhook Passing" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144689/horizontal/situation-05.1679037948.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144689/horizontal/situation-05.1679037948.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144689/horizontal/situation-05.1679037948.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144689/horizontal/situation-05.1679037948.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">09:43</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Double Underhook Passing</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025142">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="K Guard And Underhook" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144685/horizontal/situation-06.1679036995.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144685/horizontal/situation-06.1679036995.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144685/horizontal/situation-06.1679036995.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144685/horizontal/situation-06.1679036995.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:22</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">K Guard And Underhook</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025143">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Beating The Deep Half Guard" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144679/horizontal/situation-07.1679038004.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144679/horizontal/situation-07.1679038004.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144679/horizontal/situation-07.1679038004.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144679/horizontal/situation-07.1679038004.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:40</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Beating The Deep Half Guard</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3025144">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Sleeve Grip and Shoulder Pin" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144667/horizontal/situation-08.1679034391.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144667/horizontal/situation-08.1679034391.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144667/horizontal/situation-08.1679034391.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144667/horizontal/situation-08.1679034391.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">12:05</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Sleeve Grip and Shoulder Pin</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    Free Content
+  </div>
+
+                <a
+    data-action="click->playlist-modal#showVideo"
+    data-playlist-modal-permalink-param="on-demand-game-theory-tainan-dalpra-gui-mendes"
+    data-playlist-modal-item-id-param="3025146"
+    data-playlist-modal-subject-permalink-param="game-theory-recognizing-the-opponents-style"
+    class="content-item block cursor-pointer"
+    data-cid="3025146"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Recognizing The Opponent&#39;s Style" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2144639/horizontal/recognizing.1679031150.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2144639/horizontal/recognizing.1679031150.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2144639/horizontal/recognizing.1679031150.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2144639/horizontal/recognizing.1679031150.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:20</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Recognizing The Opponent&#39;s Style</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    data-action="click->playlist-modal#showVideo"
+    data-playlist-modal-permalink-param="on-demand-game-theory-tainan-dalpra-gui-mendes"
+    data-playlist-modal-item-id-param="3025147"
+    data-playlist-modal-subject-permalink-param="game-theory-details-after-class-february-2023"
+    class="content-item block cursor-pointer"
+    data-cid="3025147"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Details After Class (February 2023)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2146697/horizontal/UGfPlZGn7Brf_g.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2146697/horizontal/UGfPlZGn7Brf_g.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2146697/horizontal/UGfPlZGn7Brf_g.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2146697/horizontal/UGfPlZGn7Brf_g.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">09:13</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Details After Class (February 2023)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+          </div>
+        </ds-show-more>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+</turbo-frame></template></turbo-stream></body></html>

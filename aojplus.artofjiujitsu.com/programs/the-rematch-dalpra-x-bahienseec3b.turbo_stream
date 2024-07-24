@@ -1,0 +1,252 @@
+<!DOCTYPE html><html><head><meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="PczSUzoLS4YBJpPvLXbAcS8C38WX1hW6lbPyG_l-_xUyQHhu-nqtBocdLnn5yjk5Js2Y-XVpqDjpLYfT4PR6iQ" /></head><body>
+<turbo-stream action="update" target="program_show"><template>
+  <turbo-frame data-viewing-session-id="ded4532e45cf3314e7a812db7213f61874dc8cd01052f181719ef6f58c98f24d" id="program_player">
+      <div class="hidden"
+     data-controller="integrations"
+     data-integrations-facebook-pixel-enabled-value="false"
+     data-integrations-google-tag-manager-enabled-value="true"
+     data-integrations-google-analytics-enabled-value="true"
+>
+  <span class="hidden"
+        data-integrations-target="gTag"
+        data-event="ViewContent"
+        data-payload-attributes='["content_name"]'
+        data-payload-values='[&quot;The Rematch: 2023 IBJJF Grand Prix&quot;]'
+  ></span>
+  <span class="hidden"
+        data-integrations-target="fbPx"
+        data-event="ViewContent"
+        data-payload-attributes='["content_name"]'
+        data-payload-values='[&quot;The Rematch: 2023 IBJJF Grand Prix&quot;]'
+  ></span>
+</div>
+
+<div class="collection pt-0 lg:pt-4">
+    <div
+      class='container hotwired'
+      data-controller="program"
+      data-program-id="2084999"
+    >
+      <div>
+
+        
+<div class="collection-header block md:flex items-start justify-between mb-6" id="collection_header">
+  <div class="flex-1 md:me-4">
+    <p class="collection-lable text-primary text-ds-tiny-bold-uppercase mb-1">
+      <ds-icon class="inline-block align-sub" size="16px" name='playlist'></ds-icon> Collection
+    </p>
+    <h1 class="collection-title text-ds-title-2-semi-bold mb-4 md:mb-0 max-w-full mt-1" data-area="collection-title">
+      The Rematch: 2023 IBJJF Grand Prix
+    </h1>
+  </div>
+  <div>
+      <div class="collection-buttons flex mt-4 lg:items-start lg:mt-0 gap-2" data-area="program-buttons">
+        <ds-button
+          data-turbo="true" data-turbo-frame="program_show" data-turbo-action="advance"
+          variant="primary"
+          href="/programs/the-rematch-dalpra-x-bahiense?cid=2973576"
+          class="collection-buttons--watch w-auto min-w-fit"
+        >
+            Start watching
+        </ds-button>
+
+        
+
+        <ds-button
+          class="collection-buttons--share w-full lg:w-auto"
+          data-controller="share-button"
+          only-icon
+          lg="only-icon:false"
+          data-action="click->share-button#show"
+          data-share-button-content-value='{"main_poster":"https://alpha.uscreencdn.com/images/programs/2084999/horizontal/small_the-rematch-landscape.1681165554.jpg"}'
+          data-area="share-button">
+          <ds-icon slot="before" name='share'></ds-icon>
+          <span class="hidden lg:!inline">Share</span>
+        </ds-button>
+      </div>
+  </div>
+</div>
+
+        <div class="content-about w-full lg:mt-1 mt-5" id="program_about">
+          
+  <ds-show-more
+    style="--ds-show-more-fade-color: var(--section-background-color);"
+    lines="6"
+    class="mt-1"
+    float="left"
+    show-more-title="Show more"
+    show-less-title="Show less"
+  >
+    <div
+      class="content-description program-description-text"
+      slot="content"
+      data-area="about-description"
+      data-controller="timestamp"
+    >
+      <div class="editor-content"><p><strong>The Rematch</strong>&nbsp;series follows 2x world champion Tainan Dalpra in preparation for his March 3rd superfight against Isaque Bahiense. Also competing on the same night is black belt Johnatha Alves in the IBJJF Lightweight Grand Prix.<br></p><h3><strong>Series Overview</strong></h3><p><strong>Total Episodes: </strong>3<br></p><p><strong>Release Date: </strong>February 10, 2023<br></p><p><strong>Languages: </strong>English &amp; Portuguese (Subtitles)</p></div>
+    </div>
+  </ds-show-more>
+
+  <div class="content-categories flex flex-wrap mt-5" data-area="program-categories">
+      <a class="category block dark:bg-white dark:text-black rounded bg-black text-white py-1 px-3 text-sm font-bold me-2 mb-2" data-area="category-item" href="/categories/originals">Originals</a>
+  </div>
+  <turbo-frame loading="lazy" id="program_resources" src="/programs/the-rematch-dalpra-x-bahiense/resources"></turbo-frame>
+
+        </div>
+        <turbo-frame loading="lazy" class="fixed bg-transparent-dark inset-0 flex items-center justify-center z-50 hidden" data-container="true" data-action="click-&gt;program#hideTrailer" id="program_trailer" src="/programs/the-rematch-dalpra-x-bahiense/trailer"></turbo-frame>
+      </div>
+    </div>
+
+  <div class="collection-videos relative bg-ds-overlay border-y border-ds-default mt-4" id="program_playlist">
+    <div class="container">
+      <div
+        class="py-8"
+        data-area="playlist"
+      >
+
+        <div class="flex items-center justify-between mb-5">
+          <p class="collection-videos-counter text-ds-tiny-semi-bold-uppercase" data-area="counter">
+            <ds-icon size="16px" class="pr-1 inline-block align-bottom" name='playlist'></ds-icon>
+            Videos (3)
+          </p>
+        </div>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            Episodes
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <a
+    href="/programs/the-rematch-dalpra-x-bahiense?cid=2973576&amp;permalink=the-rematch-dalpra-x-bahiense-episode-01"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="2973576"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="The Rematch: Dalpra x Bahiense (Episode 01)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2084996/horizontal/COVER.1676057336.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2084996/horizontal/COVER.1676057336.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2084996/horizontal/COVER.1676057336.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2084996/horizontal/COVER.1676057336.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:52</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">The Rematch: Dalpra x Bahiense (Episode 01)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/the-rematch-dalpra-x-bahiense?cid=3002031&amp;permalink=the-rematch-episode-02"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3002031"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="The Rematch (Episode 02)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2113246/horizontal/cover-02-website.1677613501.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2113246/horizontal/cover-02-website.1677613501.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2113246/horizontal/cover-02-website.1677613501.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2113246/horizontal/cover-02-website.1677613501.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">05:44</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">The Rematch (Episode 02)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/the-rematch-dalpra-x-bahiense?cid=3011381&amp;permalink=the-rematch-episode-03"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3011381"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="The Rematch (Episode 03)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2122800/horizontal/episode-03.1678216199.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2122800/horizontal/episode-03.1678216199.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2122800/horizontal/episode-03.1678216199.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2122800/horizontal/episode-03.1678216199.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">11:58</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">The Rematch (Episode 03)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+            </ds-swiper>
+        <ds-show-more
+          style="--ds-show-more-fade-color: transparent;"
+          content-not-clickable
+          class="!hidden md:!block"
+          float="center"
+          disabled="true"
+          once
+          max-height="550"
+          md="disabled:false"
+          lg="max-height:900"
+        >
+          <ds-button slot="button" class="collection-videos-button mt-6">Show all videos</ds-button>
+          <div slot="content" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6" data-area="chapters">
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    Episodes
+  </div>
+
+                <a
+    href="/programs/the-rematch-dalpra-x-bahiense?cid=2973576&amp;permalink=the-rematch-dalpra-x-bahiense-episode-01"
+    class="content-item block cursor-pointer"
+    data-cid="2973576"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="The Rematch: Dalpra x Bahiense (Episode 01)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2084996/horizontal/COVER.1676057336.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2084996/horizontal/COVER.1676057336.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2084996/horizontal/COVER.1676057336.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2084996/horizontal/COVER.1676057336.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:52</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">The Rematch: Dalpra x Bahiense (Episode 01)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/the-rematch-dalpra-x-bahiense?cid=3002031&amp;permalink=the-rematch-episode-02"
+    class="content-item block cursor-pointer"
+    data-cid="3002031"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="The Rematch (Episode 02)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2113246/horizontal/cover-02-website.1677613501.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2113246/horizontal/cover-02-website.1677613501.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2113246/horizontal/cover-02-website.1677613501.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2113246/horizontal/cover-02-website.1677613501.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">05:44</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">The Rematch (Episode 02)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/the-rematch-dalpra-x-bahiense?cid=3011381&amp;permalink=the-rematch-episode-03"
+    class="content-item block cursor-pointer"
+    data-cid="3011381"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="The Rematch (Episode 03)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2122800/horizontal/episode-03.1678216199.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2122800/horizontal/episode-03.1678216199.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2122800/horizontal/episode-03.1678216199.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2122800/horizontal/episode-03.1678216199.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">11:58</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">The Rematch (Episode 03)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+          </div>
+        </ds-show-more>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+</turbo-frame></template></turbo-stream></body></html>

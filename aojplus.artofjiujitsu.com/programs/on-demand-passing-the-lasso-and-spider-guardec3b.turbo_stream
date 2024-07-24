@@ -1,0 +1,1321 @@
+<!DOCTYPE html><html><head><meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="jIIDlkt9cb881geiVvpO-D5PSgsdRpKZeojwocBRaJR4fBmGtaLYhjdr0ZiAsIp_zBiJOB_1CpsD5_zL7EqYcA" /></head><body>
+<turbo-stream action="update" target="program_show"><template>
+  <turbo-frame data-viewing-session-id="3a6388111ecf0ddf18822664392e0e1a5c8c68001dfaa1acd1d9085dcfc46d0e" id="program_player">
+      <div class="hidden"
+     data-controller="integrations"
+     data-integrations-facebook-pixel-enabled-value="false"
+     data-integrations-google-tag-manager-enabled-value="true"
+     data-integrations-google-analytics-enabled-value="true"
+>
+  <span class="hidden"
+        data-integrations-target="gTag"
+        data-event="ViewContent"
+        data-payload-attributes='["content_name"]'
+        data-payload-values='[&quot;Passing the Lasso &amp; Spider Guard Masterclass &quot;]'
+  ></span>
+  <span class="hidden"
+        data-integrations-target="fbPx"
+        data-event="ViewContent"
+        data-payload-attributes='["content_name"]'
+        data-payload-values='[&quot;Passing the Lasso &amp; Spider Guard Masterclass &quot;]'
+  ></span>
+</div>
+
+<div class="collection pt-0 lg:pt-4">
+    <div
+      class='container hotwired'
+      id="collection_cover"
+      data-controller="program program-details-modal"
+      data-program-id="2553968"
+    >
+      
+<ds-modal no-background="" size="small" with-close-icon id="more-details-modal" data-action="close->program-details-modal#closeDetailModal">
+  <div class="bg-ds-default">
+    <div class="p-6 pb-0 max-h-[calc(100vh-190px)] overflow-y-auto">
+      <p class="text-ds-default text-ds-large-bold mb-4">Passing the Lasso &amp; Spider Guard Masterclass </p>
+      <p class="text-ds-small-semi-bold-uppercase text-ds-muted mb-4">About</p>
+      <div class="content-description text-ds-base-regular text-ds-default mb-6" data-program-details-modal-target="modalContent"></div>
+      <div class="p-4 bg-ds-overlay flex flex-col gap-2 rounded overflow-x-auto">
+        <div class="flex w-full gap-2">
+          <div class="text-ds-small-medium text-ds-default w-[100px]">Released</div>
+          <div class="text-ds-small-regular text-ds-default">August 2023</div>
+        </div>
+          <div class="flex w-full gap-2">
+              <div class="text-ds-small-medium text-ds-default w-[100px] shrink-0">Categories</div>
+            <div class="flex flex-col w-full">
+                <div class="flex">
+                  <a
+                    class="shrink-0 text-primary text-ds-small-medium inline-block mr-1"
+                    target="_blank"
+                    href="/categories/on-demand"
+                  >
+                    On Demand
+                  </a>
+                  <span class="shrink-0 inline-block text-ds-small-regular text-ds-muted">
+                    (610 videos)
+                  </span>
+                </div>
+            </div>
+          </div>
+      </div>
+    </div>
+    <div class="text-right p-6 pt-2">
+      <ds-button variant="primary" onclick="document.getElementById('more-details-modal').close()">Close</ds-button>
+    </div>
+  </div>
+</ds-modal>
+
+<div class="flex flex-col lg:flex-row gap-x-12">
+    <div class="h-full w-full lg:w-[55%] relative">
+        <img src="https://alpha.uscreencdn.com/images/programs/2553968/horizontal/passing-lasso-spider-16x8.1694102717.jpg" class="aspect-video rounded h-auto">
+    </div>
+  <div id="program_about" class="w-full lg:w-[45%] lg:mb-5">
+      <p class="text-primary text-ds-tiny-bold-uppercase mb-1 mt-4 lg:mt-0">
+        <ds-icon class="inline-block align-sub" size="16px" name='playlist'></ds-icon> Collection
+      </p>
+      <h1 class="text-ds-title-2-semi-bold mt-2 lg:mt-0">
+        Passing the Lasso &amp; Spider Guard Masterclass 
+      </h1>
+      <div class="mt-2">
+        <span class="inline-block">
+            <ds-avatar
+              style="--ds-avatar-size: 1.5rem;"
+              class="inline-block "
+              size="xxxs"
+              url="https://alpha.uscreencdn.com/images/author/48105/small_GUI-MENDES.1643077059.jpg"
+              text="Gui Mendes">
+            </ds-avatar>
+            <ds-avatar
+              style="--ds-avatar-size: 1.5rem;"
+              class="inline-block -ml-2"
+              size="xxxs"
+              url="https://alpha.uscreencdn.com/images/author/48305/small_small_tainan.1691512607.jpg"
+              text="Tainan Dalpra">
+            </ds-avatar>
+        </span>
+        <span class="inline-block align-super text-ds-default text-ds-small-regular">
+          Gui Mendes
+            + 1
+        </span>
+      </div>
+    <div class="mt-4 text-ds-small-regular">
+      <div aria-expanded=true class="content-description line-clamp-3 max-h-[60px] xl:line-clamp-[7] xl:max-h-[140px] xl:aria-expanded:line-clamp-[11] xl:aria-expanded:max-h-[220px]" data-program-details-modal-target="description">
+        <div class="editor-content"><p><strong>Purchase Link:</strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://aojplus.artofjiujitsu.com/checkout/new?o=p2553968">Here</a></p><p>-</p><p><em>Please note that Passing the Lasso &amp; Spider Guard is not available in the recurring AOJ+ subscription and must be purchased from either Desktop or Mobile browser.</em></p><p>-</p><p>A comprehensive Masterclass series focused on Passing the Lasso &amp; Spider Guard taught by 2x world champion Tainan Dalpra and 4x world champion Gui Mendes.</p><p>-</p><p>The series is organized into the following five sections:</p><ul><li><p>Key Concepts</p></li><li><p>Techniques</p></li><li><p>Private Classes</p></li><li><p>Sparring Sequences</p></li><li><p>Fight Analysis</p></li></ul><p>-</p><p><strong>Released: </strong>September 11, 2023<br><strong>Instructors:</strong> Tainan Dalpra and Gui Mendes<br><strong>Classes:</strong> 31<br><strong>Length:</strong> 6 hours 56 minutes</p></div>
+      </div>
+      <ds-button variant="text" data-action="click->program-details-modal#openDetailModal" class="cursor-pointer">Learn more</ds-button>
+    </div>
+    <div class="mt-4 flex flex-col sm:flex-row gap-2 ">
+          <ds-button class="w-full" href="/checkout/new?o=p2553968" variant="primary">
+            Buy $199.99</ds-button>
+    </div>
+  </div>
+</div>
+
+    </div>
+
+  <div class="collection-videos relative bg-ds-overlay border-y border-ds-default mt-4" id="program_playlist">
+    <div class="container">
+      <div
+        class="py-8"
+        data-area="playlist"
+        data-controller="playlist-modal"
+        data-playlist-modal-root-url-value="https://aojplus.artofjiujitsu.com"
+      >
+          <ds-modal
+            id="free-video-modal"
+            size="large"
+            with-close-icon
+            close-icon-in-backdrop
+            no-background
+            
+            data-action="close->playlist-modal#stopVideo"
+            data-playlist-modal-target="modal"
+          >
+            <div data-controller="integrations"
+                 data-integrations-facebook-pixel-enabled-value="false"
+                 data-integrations-google-tag-manager-enabled-value="true"
+                 data-integrations-google-analytics-enabled-value="true"
+                 class="bg-ds-subtle"
+            >
+              <turbo-frame id="free_program"></turbo-frame>            </div>
+          </ds-modal>
+
+        <div class="flex items-center justify-between mb-5">
+          <p class="collection-videos-counter text-ds-tiny-semi-bold-uppercase" data-area="counter">
+            <ds-icon size="16px" class="pr-1 inline-block align-bottom" name='playlist'></ds-icon>
+            Videos (31)
+          </p>
+        </div>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            Trailers
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <a
+    data-action="click->playlist-modal#showVideo"
+    data-playlist-modal-permalink-param="on-demand-passing-the-lasso-and-spider-guard"
+    data-playlist-modal-item-id-param="3341478"
+    data-playlist-modal-subject-permalink-param="trailer-passing-the-lasso-and-spider-guard-masterclass"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3341478"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Trailer: Passing the Lasso &amp; Spider Guard Masterclass" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581603/horizontal/passing-lasso-spider-16x8.1694440939.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581603/horizontal/passing-lasso-spider-16x8.1694440939.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581603/horizontal/passing-lasso-spider-16x8.1694440939.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581603/horizontal/passing-lasso-spider-16x8.1694440939.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">00:59</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Trailer: Passing the Lasso &amp; Spider Guard Masterclass</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            Key Concepts
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342113">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Recognizing The Scenario" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2553985/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2553985/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2553985/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2553985/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">12:57</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Recognizing The Scenario</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342114">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Disengaging The Guard" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2555019/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2555019/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2555019/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2555019/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">12:48</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Disengaging The Guard</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342115">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Making The Guard Player Uncomfortable" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2573102/horizontal/g.1694456995.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2573102/horizontal/g.1694456995.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2573102/horizontal/g.1694456995.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2573102/horizontal/g.1694456995.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">13:33</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Making The Guard Player Uncomfortable</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342116">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Posturing To Disconnect" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2573110/horizontal/g.1694457162.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2573110/horizontal/g.1694457162.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2573110/horizontal/g.1694457162.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2573110/horizontal/g.1694457162.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">14:41</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Posturing To Disconnect</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342117">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Pinning The Opponent" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2573442/horizontal/g.1694397716.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2573442/horizontal/g.1694397716.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2573442/horizontal/g.1694397716.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2573442/horizontal/g.1694397716.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">16:23</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Pinning The Opponent</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342118">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Circling The Hand" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2573465/horizontal/g.1694457324.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2573465/horizontal/g.1694457324.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2573465/horizontal/g.1694457324.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2573465/horizontal/g.1694457324.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:33</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Circling The Hand</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            Technique
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342120">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Clearing The Hooks" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2582142/horizontal/g.1694458338.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2582142/horizontal/g.1694458338.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2582142/horizontal/g.1694458338.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2582142/horizontal/g.1694458338.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">08:36</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Clearing The Hooks</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342121">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Longstep Pass From The Lasso" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581231/horizontal/g.1694456566.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581231/horizontal/g.1694456566.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581231/horizontal/g.1694456566.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581231/horizontal/g.1694456566.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">12:21</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Longstep Pass From The Lasso</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342122">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="C Grip To Outside Pass" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581235/horizontal/g.1694456670.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581235/horizontal/g.1694456670.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581235/horizontal/g.1694456670.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581235/horizontal/g.1694456670.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">19:48</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">C Grip To Outside Pass</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342123">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="C Grip To Crucifix And Stack Pass" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581237/horizontal/g.1694456775.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581237/horizontal/g.1694456775.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581237/horizontal/g.1694456775.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581237/horizontal/g.1694456775.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">09:47</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">C Grip To Crucifix And Stack Pass</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342124">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="C Grip To Duck Under" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581252/horizontal/g.1694456888.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581252/horizontal/g.1694456888.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581252/horizontal/g.1694456888.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581252/horizontal/g.1694456888.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:06</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">C Grip To Duck Under</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342125">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Leg Weave Versus The Lasso" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581752/horizontal/g.1694456453.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581752/horizontal/g.1694456453.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581752/horizontal/g.1694456453.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581752/horizontal/g.1694456453.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">15:23</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Leg Weave Versus The Lasso</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342126">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="C Grip To Trapping The Head" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581735/horizontal/g.1694456119.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581735/horizontal/g.1694456119.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581735/horizontal/g.1694456119.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581735/horizontal/g.1694456119.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:35</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">C Grip To Trapping The Head</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342127">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Leg Trap On Both Sides" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581722/horizontal/g.1694455827.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581722/horizontal/g.1694455827.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581722/horizontal/g.1694455827.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581722/horizontal/g.1694455827.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">15:26</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Leg Trap On Both Sides</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342128">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Passing Over The Leg (Same Side As Lasso)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581769/horizontal/g.1694455709.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581769/horizontal/g.1694455709.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581769/horizontal/g.1694455709.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581769/horizontal/g.1694455709.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">12:46</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Passing Over The Leg (Same Side As Lasso)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342129">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Arm Weave Guard Pass" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581827/horizontal/g.1694455602.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581827/horizontal/g.1694455602.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581827/horizontal/g.1694455602.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581827/horizontal/g.1694455602.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:10</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Arm Weave Guard Pass</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342130">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Falling Into The Double Pull" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581842/horizontal/g.1694455371.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581842/horizontal/g.1694455371.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581842/horizontal/g.1694455371.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581842/horizontal/g.1694455371.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">12:48</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Falling Into The Double Pull</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342131">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Moving Back And Redirecting" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581846/horizontal/g.1694455266.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581846/horizontal/g.1694455266.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581846/horizontal/g.1694455266.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581846/horizontal/g.1694455266.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">09:45</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Moving Back And Redirecting</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342132">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Circling The Hand And C Grip" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581937/horizontal/g.1694455092.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581937/horizontal/g.1694455092.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581937/horizontal/g.1694455092.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581937/horizontal/g.1694455092.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">18:10</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Circling The Hand And C Grip</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342133">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Creating Space to Clear the Spider" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581977/horizontal/g.1694454690.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581977/horizontal/g.1694454690.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581977/horizontal/g.1694454690.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581977/horizontal/g.1694454690.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:25</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Creating Space to Clear the Spider</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342134">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Stepping Behind The Leg" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2582007/horizontal/g.1694454537.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2582007/horizontal/g.1694454537.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2582007/horizontal/g.1694454537.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2582007/horizontal/g.1694454537.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">09:48</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Stepping Behind The Leg</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            Sparring Sequences
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342239">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Sparring Sequences (Tainan Dalpra &amp; Gui Mendes)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2582187/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2582187/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2582187/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2582187/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">16:39</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Sparring Sequences (Tainan Dalpra &amp; Gui Mendes)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            Private Classes
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342136">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Private Class: Alex Vazquez &amp; Luca Ramaci (Part 01)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581220/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581220/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581220/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581220/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">28:19</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Private Class: Alex Vazquez &amp; Luca Ramaci (Part 01)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342137">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Private Class: Alex Vazquez &amp; Luca Ramaci (Part 02)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581213/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581213/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581213/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581213/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">27:52</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Private Class: Alex Vazquez &amp; Luca Ramaci (Part 02)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342138">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Private Class: JP Tran &amp; Mick Whelan" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581201/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581201/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581201/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581201/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">36:52</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Private Class: JP Tran &amp; Mick Whelan</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            Fight Analysis
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342140">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Fight Analysis: Matheus Luna (Artista Invitational)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2559169/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2559169/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2559169/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2559169/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">18:33</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Fight Analysis: Matheus Luna (Artista Invitational)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342141">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Fight Analysis: Tommy Langaker (2021 Worlds)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2565026/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2565026/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2565026/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2565026/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:37</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Fight Analysis: Tommy Langaker (2021 Worlds)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342142">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Fight Analysis: Jonnatas Gracie (2021 IBJJF Grand Prix)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2565052/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2565052/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2565052/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2565052/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:29</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Fight Analysis: Jonnatas Gracie (2021 IBJJF Grand Prix)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342143">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Fight Analysis: Jeferson Guaresi (2022 Pan Ams)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2565939/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2565939/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2565939/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2565939/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">08:26</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Fight Analysis: Jeferson Guaresi (2022 Pan Ams)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3342144">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Fight Analysis: Eduardo Avelar (2022 Pan Ams)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2566060/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2566060/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2566060/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2566060/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:32</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Fight Analysis: Eduardo Avelar (2022 Pan Ams)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+            </ds-swiper>
+        <ds-show-more
+          style="--ds-show-more-fade-color: transparent;"
+          content-not-clickable
+          class="!hidden md:!block"
+          float="center"
+          disabled="true"
+          once
+          max-height="550"
+          md="disabled:false"
+          lg="max-height:900"
+        >
+          <ds-button slot="button" class="collection-videos-button mt-6">Show all videos</ds-button>
+          <div slot="content" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6" data-area="chapters">
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    Trailers
+  </div>
+
+                <a
+    data-action="click->playlist-modal#showVideo"
+    data-playlist-modal-permalink-param="on-demand-passing-the-lasso-and-spider-guard"
+    data-playlist-modal-item-id-param="3341478"
+    data-playlist-modal-subject-permalink-param="trailer-passing-the-lasso-and-spider-guard-masterclass"
+    class="content-item block cursor-pointer"
+    data-cid="3341478"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Trailer: Passing the Lasso &amp; Spider Guard Masterclass" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581603/horizontal/passing-lasso-spider-16x8.1694440939.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581603/horizontal/passing-lasso-spider-16x8.1694440939.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581603/horizontal/passing-lasso-spider-16x8.1694440939.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581603/horizontal/passing-lasso-spider-16x8.1694440939.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">00:59</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Trailer: Passing the Lasso &amp; Spider Guard Masterclass</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    Key Concepts
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342113">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Recognizing The Scenario" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2553985/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2553985/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2553985/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2553985/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">12:57</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Recognizing The Scenario</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342114">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Disengaging The Guard" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2555019/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2555019/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2555019/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2555019/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">12:48</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Disengaging The Guard</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342115">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Making The Guard Player Uncomfortable" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2573102/horizontal/g.1694456995.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2573102/horizontal/g.1694456995.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2573102/horizontal/g.1694456995.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2573102/horizontal/g.1694456995.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">13:33</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Making The Guard Player Uncomfortable</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342116">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Posturing To Disconnect" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2573110/horizontal/g.1694457162.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2573110/horizontal/g.1694457162.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2573110/horizontal/g.1694457162.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2573110/horizontal/g.1694457162.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">14:41</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Posturing To Disconnect</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342117">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Pinning The Opponent" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2573442/horizontal/g.1694397716.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2573442/horizontal/g.1694397716.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2573442/horizontal/g.1694397716.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2573442/horizontal/g.1694397716.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">16:23</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Pinning The Opponent</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342118">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Circling The Hand" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2573465/horizontal/g.1694457324.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2573465/horizontal/g.1694457324.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2573465/horizontal/g.1694457324.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2573465/horizontal/g.1694457324.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:33</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Circling The Hand</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    Technique
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342120">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Clearing The Hooks" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2582142/horizontal/g.1694458338.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2582142/horizontal/g.1694458338.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2582142/horizontal/g.1694458338.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2582142/horizontal/g.1694458338.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">08:36</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Clearing The Hooks</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342121">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Longstep Pass From The Lasso" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581231/horizontal/g.1694456566.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581231/horizontal/g.1694456566.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581231/horizontal/g.1694456566.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581231/horizontal/g.1694456566.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">12:21</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Longstep Pass From The Lasso</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342122">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="C Grip To Outside Pass" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581235/horizontal/g.1694456670.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581235/horizontal/g.1694456670.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581235/horizontal/g.1694456670.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581235/horizontal/g.1694456670.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">19:48</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">C Grip To Outside Pass</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342123">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="C Grip To Crucifix And Stack Pass" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581237/horizontal/g.1694456775.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581237/horizontal/g.1694456775.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581237/horizontal/g.1694456775.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581237/horizontal/g.1694456775.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">09:47</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">C Grip To Crucifix And Stack Pass</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342124">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="C Grip To Duck Under" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581252/horizontal/g.1694456888.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581252/horizontal/g.1694456888.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581252/horizontal/g.1694456888.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581252/horizontal/g.1694456888.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:06</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">C Grip To Duck Under</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342125">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Leg Weave Versus The Lasso" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581752/horizontal/g.1694456453.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581752/horizontal/g.1694456453.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581752/horizontal/g.1694456453.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581752/horizontal/g.1694456453.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">15:23</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Leg Weave Versus The Lasso</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342126">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="C Grip To Trapping The Head" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581735/horizontal/g.1694456119.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581735/horizontal/g.1694456119.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581735/horizontal/g.1694456119.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581735/horizontal/g.1694456119.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:35</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">C Grip To Trapping The Head</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342127">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Leg Trap On Both Sides" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581722/horizontal/g.1694455827.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581722/horizontal/g.1694455827.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581722/horizontal/g.1694455827.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581722/horizontal/g.1694455827.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">15:26</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Leg Trap On Both Sides</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342128">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Passing Over The Leg (Same Side As Lasso)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581769/horizontal/g.1694455709.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581769/horizontal/g.1694455709.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581769/horizontal/g.1694455709.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581769/horizontal/g.1694455709.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">12:46</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Passing Over The Leg (Same Side As Lasso)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342129">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Arm Weave Guard Pass" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581827/horizontal/g.1694455602.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581827/horizontal/g.1694455602.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581827/horizontal/g.1694455602.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581827/horizontal/g.1694455602.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:10</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Arm Weave Guard Pass</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342130">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Falling Into The Double Pull" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581842/horizontal/g.1694455371.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581842/horizontal/g.1694455371.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581842/horizontal/g.1694455371.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581842/horizontal/g.1694455371.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">12:48</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Falling Into The Double Pull</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342131">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Moving Back And Redirecting" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581846/horizontal/g.1694455266.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581846/horizontal/g.1694455266.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581846/horizontal/g.1694455266.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581846/horizontal/g.1694455266.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">09:45</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Moving Back And Redirecting</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342132">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Circling The Hand And C Grip" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581937/horizontal/g.1694455092.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581937/horizontal/g.1694455092.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581937/horizontal/g.1694455092.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581937/horizontal/g.1694455092.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">18:10</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Circling The Hand And C Grip</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342133">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Creating Space to Clear the Spider" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581977/horizontal/g.1694454690.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581977/horizontal/g.1694454690.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581977/horizontal/g.1694454690.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581977/horizontal/g.1694454690.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:25</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Creating Space to Clear the Spider</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342134">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Stepping Behind The Leg" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2582007/horizontal/g.1694454537.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2582007/horizontal/g.1694454537.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2582007/horizontal/g.1694454537.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2582007/horizontal/g.1694454537.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">09:48</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Stepping Behind The Leg</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    Sparring Sequences
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342239">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Sparring Sequences (Tainan Dalpra &amp; Gui Mendes)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2582187/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2582187/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2582187/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2582187/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">16:39</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Sparring Sequences (Tainan Dalpra &amp; Gui Mendes)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    Private Classes
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342136">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Private Class: Alex Vazquez &amp; Luca Ramaci (Part 01)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581220/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581220/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581220/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581220/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">28:19</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Private Class: Alex Vazquez &amp; Luca Ramaci (Part 01)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342137">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Private Class: Alex Vazquez &amp; Luca Ramaci (Part 02)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581213/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581213/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581213/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581213/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">27:52</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Private Class: Alex Vazquez &amp; Luca Ramaci (Part 02)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342138">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Private Class: JP Tran &amp; Mick Whelan" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2581201/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2581201/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2581201/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2581201/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">36:52</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Private Class: JP Tran &amp; Mick Whelan</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    Fight Analysis
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342140">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Fight Analysis: Matheus Luna (Artista Invitational)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2559169/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2559169/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2559169/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2559169/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">18:33</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Fight Analysis: Matheus Luna (Artista Invitational)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342141">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Fight Analysis: Tommy Langaker (2021 Worlds)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2565026/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2565026/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2565026/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2565026/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:37</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Fight Analysis: Tommy Langaker (2021 Worlds)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342142">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Fight Analysis: Jonnatas Gracie (2021 IBJJF Grand Prix)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2565052/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2565052/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2565052/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2565052/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:29</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Fight Analysis: Jonnatas Gracie (2021 IBJJF Grand Prix)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342143">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Fight Analysis: Jeferson Guaresi (2022 Pan Ams)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2565939/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2565939/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2565939/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2565939/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">08:26</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Fight Analysis: Jeferson Guaresi (2022 Pan Ams)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3342144">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Fight Analysis: Eduardo Avelar (2022 Pan Ams)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2566060/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2566060/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2566060/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2566060/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:32</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Fight Analysis: Eduardo Avelar (2022 Pan Ams)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+          </div>
+        </ds-show-more>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+</turbo-frame></template></turbo-stream></body></html>

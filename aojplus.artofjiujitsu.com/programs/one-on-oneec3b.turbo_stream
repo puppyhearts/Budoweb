@@ -1,0 +1,762 @@
+<!DOCTYPE html><html><head><meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="qS2FhVM2gEge7OpWZHJXuL4PU0jdIcD2JqWcu7rh6ccdm4IhPRsbM00lUktbcYJyfBRXd3mOIlJDjNUX5JZTdw" /></head><body>
+<turbo-stream action="update" target="program_show"><template>
+  <turbo-frame data-viewing-session-id="437e87aaa5095671ac0f62dae909fece59817c094270eb8755d3761bf881e40e" id="program_player">
+      <div class="hidden"
+     data-controller="integrations"
+     data-integrations-facebook-pixel-enabled-value="false"
+     data-integrations-google-tag-manager-enabled-value="true"
+     data-integrations-google-analytics-enabled-value="true"
+>
+  <span class="hidden"
+        data-integrations-target="gTag"
+        data-event="ViewContent"
+        data-payload-attributes='["content_name"]'
+        data-payload-values='[&quot;One on One&quot;]'
+  ></span>
+  <span class="hidden"
+        data-integrations-target="fbPx"
+        data-event="ViewContent"
+        data-payload-attributes='["content_name"]'
+        data-payload-values='[&quot;One on One&quot;]'
+  ></span>
+</div>
+
+<div class="collection pt-0 lg:pt-4">
+    <div
+      class='container hotwired'
+      id="collection_cover"
+      data-controller="program program-details-modal"
+      data-program-id="1697656"
+    >
+      
+<ds-modal no-background="" size="small" with-close-icon id="more-details-modal" data-action="close->program-details-modal#closeDetailModal">
+  <div class="bg-ds-default">
+    <div class="p-6 pb-0 max-h-[calc(100vh-190px)] overflow-y-auto">
+      <p class="text-ds-default text-ds-large-bold mb-4">One on One</p>
+      <p class="text-ds-small-semi-bold-uppercase text-ds-muted mb-4">About</p>
+      <div class="content-description text-ds-base-regular text-ds-default mb-6" data-program-details-modal-target="modalContent"></div>
+      <div class="p-4 bg-ds-overlay flex flex-col gap-2 rounded overflow-x-auto">
+        <div class="flex w-full gap-2">
+          <div class="text-ds-small-medium text-ds-default w-[100px]">Released</div>
+          <div class="text-ds-small-regular text-ds-default">May 2022</div>
+        </div>
+          <div class="flex w-full gap-2">
+              <div class="text-ds-small-medium text-ds-default w-[100px] shrink-0">Categories</div>
+            <div class="flex flex-col w-full">
+                <div class="flex">
+                  <a
+                    class="shrink-0 text-primary text-ds-small-medium inline-block mr-1"
+                    target="_blank"
+                    href="/categories/originals"
+                  >
+                    Originals
+                  </a>
+                  <span class="shrink-0 inline-block text-ds-small-regular text-ds-muted">
+                    (252 videos)
+                  </span>
+                </div>
+            </div>
+          </div>
+      </div>
+    </div>
+    <div class="text-right p-6 pt-2">
+      <ds-button variant="primary" onclick="document.getElementById('more-details-modal').close()">Close</ds-button>
+    </div>
+  </div>
+</ds-modal>
+
+<div class="flex flex-col lg:flex-row gap-x-12">
+    <div class="h-full w-full lg:w-[55%] relative">
+        <img src="https://alpha.uscreencdn.com/images/programs/1697656/horizontal/one-on-one-landscape.1681165765.jpg" class="aspect-video rounded h-auto">
+    </div>
+  <div id="program_about" class="w-full lg:w-[45%] lg:mb-5">
+      <p class="text-primary text-ds-tiny-bold-uppercase mb-1 mt-4 lg:mt-0">
+        <ds-icon class="inline-block align-sub" size="16px" name='playlist'></ds-icon> Collection
+      </p>
+      <h1 class="text-ds-title-2-semi-bold mt-2 lg:mt-0">
+        One on One
+      </h1>
+    <div class="mt-4 text-ds-small-regular">
+      <div aria-expanded=true class="content-description line-clamp-3 max-h-[60px] xl:line-clamp-[7] xl:max-h-[140px] xl:aria-expanded:line-clamp-[11] xl:aria-expanded:max-h-[220px]" data-program-details-modal-target="description">
+        <p>One on One provides exclusive access into private training sessions with notable Art of Jiu Jitsu instructors and athletes.</p>
+      </div>
+      <ds-button variant="text" data-action="click->program-details-modal#openDetailModal" class="cursor-pointer">Learn more</ds-button>
+    </div>
+    <div class="mt-4 flex flex-col sm:flex-row gap-2 ">
+            <ds-dropdown data-test="subscriptions-list" float="center" sm="float:left" class="w-full">
+              <ds-button class="w-full" slot="control" variant="primary">
+                  Subscribe to watch
+                <ds-icon slot="after" name='chevron-down'></ds-icon>
+              </ds-button>
+              <div
+                slot="content"
+                class="p-6 pt-4 w-screen max-w-screen-md sm:max-w-md box-border sm:w-auto"
+              >
+                <p class="text-ds-small-regular mb-4">Select a membership:</p>
+                  <a
+                    href="/checkout/new?o=69905"
+                    class="mb-4 last:mb-0 rounded w-full border border-solid border-ds-default flex hover:opacity-70 transition-opacity"
+                  >
+                      <div class="h-[4rem] sm:h-[7rem] max-w-[112px] w-full sm:max-w-[192px] flex shrink-0">
+                        <img class="h-full max-w-full max-h-full rounded-l mr-auto" src="https://alpha.uscreencdn.com/images/offer/69905/big_MONTHLY-SUBSCRIPTION.1669176440.jpg">
+                      </div>
+                    <div class="py-1 px-2 sm:px-3 sm:py-3 flex flex-col items-start justify-center w-full">
+                      <p class="text-ds-tiny-bold-uppercase text-primary">
+                        Monthly
+                      </p>
+                      <p class="!hidden sm:!block text-ds-tiny-regular mb-1 max-x-[2rem] overflow-hidden">
+                        Monthly Subscription
+                      </p>
+                        <div class="flex flex-col items-start">
+                          <span class="text-ds-base-semi-bold">
+                            Free for 3 days
+                          </span>
+                          <span class="text-ds-tiny-regular text-ds-muted sm:whitespace-nowrap">
+                            USD $24.99/month after trial
+                          </span>
+                        </div>
+                    </div>
+                  </a>
+                  <a
+                    href="/checkout/new?o=68715"
+                    class="mb-4 last:mb-0 rounded w-full border border-solid border-ds-default flex hover:opacity-70 transition-opacity"
+                  >
+                      <div class="h-[4rem] sm:h-[7rem] max-w-[112px] w-full sm:max-w-[192px] flex shrink-0">
+                        <img class="h-full max-w-full max-h-full rounded-l mr-auto" src="https://alpha.uscreencdn.com/images/offer/68715/big_12-MONTH-SUBSCRIPTION.1669176396.jpg">
+                      </div>
+                    <div class="py-1 px-2 sm:px-3 sm:py-3 flex flex-col items-start justify-center w-full">
+                      <p class="text-ds-tiny-bold-uppercase text-primary">
+                        Annually
+                      </p>
+                      <p class="!hidden sm:!block text-ds-tiny-regular mb-1 max-x-[2rem] overflow-hidden">
+                        12 Month Subscription
+                      </p>
+                        <div class="flex flex-col items-start">
+                          <span class="text-ds-base-semi-bold">
+                            Free for 3 days
+                          </span>
+                          <span class="text-ds-tiny-regular text-ds-muted sm:whitespace-nowrap">
+                            USD $249.99/year after trial
+                          </span>
+                        </div>
+                    </div>
+                  </a>
+              </div>
+            </ds-dropdown>
+    </div>
+  </div>
+</div>
+
+    </div>
+
+  <div class="collection-videos relative bg-ds-overlay border-y border-ds-default mt-4" id="program_playlist">
+    <div class="container">
+      <div
+        class="py-8"
+        data-area="playlist"
+        data-controller="playlist-modal"
+        data-playlist-modal-root-url-value="https://aojplus.artofjiujitsu.com"
+      >
+          <ds-modal
+            id="free-video-modal"
+            size="large"
+            with-close-icon
+            close-icon-in-backdrop
+            no-background
+            
+            data-action="close->playlist-modal#stopVideo"
+            data-playlist-modal-target="modal"
+          >
+            <div data-controller="integrations"
+                 data-integrations-facebook-pixel-enabled-value="false"
+                 data-integrations-google-tag-manager-enabled-value="true"
+                 data-integrations-google-analytics-enabled-value="true"
+                 class="bg-ds-subtle"
+            >
+              <turbo-frame id="free_program"></turbo-frame>            </div>
+          </ds-modal>
+
+        <div class="flex items-center justify-between mb-5">
+          <p class="collection-videos-counter text-ds-tiny-semi-bold-uppercase" data-area="counter">
+            <ds-icon size="16px" class="pr-1 inline-block align-bottom" name='playlist'></ds-icon>
+            Videos (16)
+          </p>
+        </div>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="2700444">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Passing the Lasso Guard (Gui Mendes &amp; Thalison Soares)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1700628/horizontal/GUI.1653704841.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1700628/horizontal/GUI.1653704841.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1700628/horizontal/GUI.1653704841.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1700628/horizontal/GUI.1653704841.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">25:43</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Passing the Lasso Guard (Gui Mendes &amp; Thalison Soares)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="2698735">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Getting Underneath A Low Opponent (Gui Mendes &amp; Tainan Dalpra)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1698220/horizontal/ONE-ON-ONE.1653582927.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1698220/horizontal/ONE-ON-ONE.1653582927.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1698220/horizontal/ONE-ON-ONE.1653582927.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1698220/horizontal/ONE-ON-ONE.1653582927.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">23:34</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Getting Underneath A Low Opponent (Gui Mendes &amp; Tainan Dalpra)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="2704845">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Single Leg X Guard (Gui Mendes &amp; Cole Abate)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1705908/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1705908/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1705908/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1705908/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">13:18</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Single Leg X Guard (Gui Mendes &amp; Cole Abate)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="2705358">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Situational Training for Guard Retention (Gui Mendes, Dominic Manno &amp; Max Schwartz) " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1705548/horizontal/GUI.1654028393.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1705548/horizontal/GUI.1654028393.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1705548/horizontal/GUI.1654028393.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1705548/horizontal/GUI.1654028393.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">16:26</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Situational Training for Guard Retention (Gui Mendes, Dominic Manno &amp; Max Schwartz) </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="2721168">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Specific Sparring NOGI Training (Cole Abate &amp; Rafael Mendes)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1741306/horizontal/1920x1080.00_11_04_20.Still001.1655262517.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1741306/horizontal/1920x1080.00_11_04_20.Still001.1655262517.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1741306/horizontal/1920x1080.00_11_04_20.Still001.1655262517.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1741306/horizontal/1920x1080.00_11_04_20.Still001.1655262517.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">24:37</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Specific Sparring NOGI Training (Cole Abate &amp; Rafael Mendes)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="2725466">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt=" Specific Sparring NOGI Training (Cole Abate &amp; Rafael Mendes) " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1750589/horizontal/NOGI.1655779417.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1750589/horizontal/NOGI.1655779417.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1750589/horizontal/NOGI.1655779417.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1750589/horizontal/NOGI.1655779417.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">22:17</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate"> Specific Sparring NOGI Training (Cole Abate &amp; Rafael Mendes) </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="2726772">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Private Lesson with Gui Mendes" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1752072/horizontal/1920X1080_WEBSITE.00_15_02_13.Still001.1655866956.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1752072/horizontal/1920X1080_WEBSITE.00_15_02_13.Still001.1655866956.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1752072/horizontal/1920X1080_WEBSITE.00_15_02_13.Still001.1655866956.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1752072/horizontal/1920X1080_WEBSITE.00_15_02_13.Still001.1655866956.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">55:53</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Private Lesson with Gui Mendes</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="2735499">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Group Lesson with Tainan Dalpra" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1763445/horizontal/CLASS.00_23_36_13.Still001.1656549846.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1763445/horizontal/CLASS.00_23_36_13.Still001.1656549846.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1763445/horizontal/CLASS.00_23_36_13.Still001.1656549846.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1763445/horizontal/CLASS.00_23_36_13.Still001.1656549846.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">35:19</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Group Lesson with Tainan Dalpra</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="2746577">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="One on One: Rafael Mendes (Private Lesson)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1782619/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1782619/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1782619/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1782619/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">01:13:13</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">One on One: Rafael Mendes (Private Lesson)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="2749814">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="One on One: Gui Mendes x Pablo Lavaselli (Technique)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1786802/horizontal/GUI.1657901563.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1786802/horizontal/GUI.1657901563.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1786802/horizontal/GUI.1657901563.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1786802/horizontal/GUI.1657901563.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">33:38</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">One on One: Gui Mendes x Pablo Lavaselli (Technique)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="2774950">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="One on One (Gui Mendes e Pedro Fontes)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1818910/horizontal/GUI_-_ONE_ON_ONE.00_21_03_18.Still001.1659640248.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1818910/horizontal/GUI_-_ONE_ON_ONE.00_21_03_18.Still001.1659640248.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1818910/horizontal/GUI_-_ONE_ON_ONE.00_21_03_18.Still001.1659640248.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1818910/horizontal/GUI_-_ONE_ON_ONE.00_21_03_18.Still001.1659640248.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">23:31</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">One on One (Gui Mendes e Pedro Fontes)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="2780081">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Private Lesson: Rafael &amp; Alek Mendes (Part 01)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1827624/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1827624/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1827624/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1827624/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">23:08</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Private Lesson: Rafael &amp; Alek Mendes (Part 01)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="2872727">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Private Lesson with Shelby Murphey (Ages 5-7)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1936759/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1936759/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1936759/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1936759/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">11:23</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Private Lesson with Shelby Murphey (Ages 5-7)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="2907859">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="One on One: Johnatha Alves x Victor Hugo" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2000782/horizontal/J.1671313017.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2000782/horizontal/J.1671313017.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2000782/horizontal/J.1671313017.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2000782/horizontal/J.1671313017.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">29:00</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">One on One: Johnatha Alves x Victor Hugo</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="2979955">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="One on One: Gui Mendes &amp; Pablo Lavaselli" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2090561/horizontal/ONE-ON-ONE.1676402752.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2090561/horizontal/ONE-ON-ONE.1676402752.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2090561/horizontal/ONE-ON-ONE.1676402752.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2090561/horizontal/ONE-ON-ONE.1676402752.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">01:03:27</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">One on One: Gui Mendes &amp; Pablo Lavaselli</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3557611">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="One On One: Tainan Dalpra x Gutemberg Pereira " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2832083/horizontal/d1eb01ea-9c42-4cc4-8fc6-baf91c1e33c0.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2832083/horizontal/d1eb01ea-9c42-4cc4-8fc6-baf91c1e33c0.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2832083/horizontal/d1eb01ea-9c42-4cc4-8fc6-baf91c1e33c0.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2832083/horizontal/d1eb01ea-9c42-4cc4-8fc6-baf91c1e33c0.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">29:32</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">One On One: Tainan Dalpra x Gutemberg Pereira </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+            </ds-swiper>
+        <ds-show-more
+          style="--ds-show-more-fade-color: transparent;"
+          content-not-clickable
+          class="!hidden md:!block"
+          float="center"
+          disabled="true"
+          once
+          max-height="550"
+          md="disabled:false"
+          lg="max-height:900"
+        >
+          <ds-button slot="button" class="collection-videos-button mt-6">Show all videos</ds-button>
+          <div slot="content" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6" data-area="chapters">
+                <div class="content-item block pointer-events-none" data-cid="2700444">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Passing the Lasso Guard (Gui Mendes &amp; Thalison Soares)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1700628/horizontal/GUI.1653704841.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1700628/horizontal/GUI.1653704841.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1700628/horizontal/GUI.1653704841.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1700628/horizontal/GUI.1653704841.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">25:43</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Passing the Lasso Guard (Gui Mendes &amp; Thalison Soares)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="2698735">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Getting Underneath A Low Opponent (Gui Mendes &amp; Tainan Dalpra)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1698220/horizontal/ONE-ON-ONE.1653582927.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1698220/horizontal/ONE-ON-ONE.1653582927.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1698220/horizontal/ONE-ON-ONE.1653582927.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1698220/horizontal/ONE-ON-ONE.1653582927.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">23:34</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Getting Underneath A Low Opponent (Gui Mendes &amp; Tainan Dalpra)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="2704845">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Single Leg X Guard (Gui Mendes &amp; Cole Abate)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1705908/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1705908/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1705908/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1705908/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">13:18</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Single Leg X Guard (Gui Mendes &amp; Cole Abate)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="2705358">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Situational Training for Guard Retention (Gui Mendes, Dominic Manno &amp; Max Schwartz) " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1705548/horizontal/GUI.1654028393.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1705548/horizontal/GUI.1654028393.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1705548/horizontal/GUI.1654028393.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1705548/horizontal/GUI.1654028393.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">16:26</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Situational Training for Guard Retention (Gui Mendes, Dominic Manno &amp; Max Schwartz) </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="2721168">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Specific Sparring NOGI Training (Cole Abate &amp; Rafael Mendes)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1741306/horizontal/1920x1080.00_11_04_20.Still001.1655262517.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1741306/horizontal/1920x1080.00_11_04_20.Still001.1655262517.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1741306/horizontal/1920x1080.00_11_04_20.Still001.1655262517.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1741306/horizontal/1920x1080.00_11_04_20.Still001.1655262517.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">24:37</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Specific Sparring NOGI Training (Cole Abate &amp; Rafael Mendes)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="2725466">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt=" Specific Sparring NOGI Training (Cole Abate &amp; Rafael Mendes) " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1750589/horizontal/NOGI.1655779417.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1750589/horizontal/NOGI.1655779417.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1750589/horizontal/NOGI.1655779417.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1750589/horizontal/NOGI.1655779417.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">22:17</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate"> Specific Sparring NOGI Training (Cole Abate &amp; Rafael Mendes) </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="2726772">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Private Lesson with Gui Mendes" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1752072/horizontal/1920X1080_WEBSITE.00_15_02_13.Still001.1655866956.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1752072/horizontal/1920X1080_WEBSITE.00_15_02_13.Still001.1655866956.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1752072/horizontal/1920X1080_WEBSITE.00_15_02_13.Still001.1655866956.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1752072/horizontal/1920X1080_WEBSITE.00_15_02_13.Still001.1655866956.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">55:53</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Private Lesson with Gui Mendes</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="2735499">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Group Lesson with Tainan Dalpra" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1763445/horizontal/CLASS.00_23_36_13.Still001.1656549846.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1763445/horizontal/CLASS.00_23_36_13.Still001.1656549846.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1763445/horizontal/CLASS.00_23_36_13.Still001.1656549846.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1763445/horizontal/CLASS.00_23_36_13.Still001.1656549846.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">35:19</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Group Lesson with Tainan Dalpra</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="2746577">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="One on One: Rafael Mendes (Private Lesson)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1782619/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1782619/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1782619/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1782619/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">01:13:13</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">One on One: Rafael Mendes (Private Lesson)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="2749814">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="One on One: Gui Mendes x Pablo Lavaselli (Technique)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1786802/horizontal/GUI.1657901563.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1786802/horizontal/GUI.1657901563.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1786802/horizontal/GUI.1657901563.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1786802/horizontal/GUI.1657901563.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">33:38</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">One on One: Gui Mendes x Pablo Lavaselli (Technique)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="2774950">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="One on One (Gui Mendes e Pedro Fontes)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1818910/horizontal/GUI_-_ONE_ON_ONE.00_21_03_18.Still001.1659640248.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1818910/horizontal/GUI_-_ONE_ON_ONE.00_21_03_18.Still001.1659640248.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1818910/horizontal/GUI_-_ONE_ON_ONE.00_21_03_18.Still001.1659640248.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1818910/horizontal/GUI_-_ONE_ON_ONE.00_21_03_18.Still001.1659640248.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">23:31</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">One on One (Gui Mendes e Pedro Fontes)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="2780081">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Private Lesson: Rafael &amp; Alek Mendes (Part 01)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1827624/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1827624/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1827624/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1827624/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">23:08</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Private Lesson: Rafael &amp; Alek Mendes (Part 01)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="2872727">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Private Lesson with Shelby Murphey (Ages 5-7)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/1936759/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/1936759/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/1936759/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/1936759/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">11:23</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Private Lesson with Shelby Murphey (Ages 5-7)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="2907859">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="One on One: Johnatha Alves x Victor Hugo" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2000782/horizontal/J.1671313017.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2000782/horizontal/J.1671313017.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2000782/horizontal/J.1671313017.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2000782/horizontal/J.1671313017.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">29:00</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">One on One: Johnatha Alves x Victor Hugo</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="2979955">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="One on One: Gui Mendes &amp; Pablo Lavaselli" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2090561/horizontal/ONE-ON-ONE.1676402752.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2090561/horizontal/ONE-ON-ONE.1676402752.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2090561/horizontal/ONE-ON-ONE.1676402752.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2090561/horizontal/ONE-ON-ONE.1676402752.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">01:03:27</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">One on One: Gui Mendes &amp; Pablo Lavaselli</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3557611">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="One On One: Tainan Dalpra x Gutemberg Pereira " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2832083/horizontal/d1eb01ea-9c42-4cc4-8fc6-baf91c1e33c0.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2832083/horizontal/d1eb01ea-9c42-4cc4-8fc6-baf91c1e33c0.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2832083/horizontal/d1eb01ea-9c42-4cc4-8fc6-baf91c1e33c0.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2832083/horizontal/d1eb01ea-9c42-4cc4-8fc6-baf91c1e33c0.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">29:32</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">One On One: Tainan Dalpra x Gutemberg Pereira </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+          </div>
+        </ds-show-more>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+</turbo-frame></template></turbo-stream></body></html>

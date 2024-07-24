@@ -1,0 +1,400 @@
+<!DOCTYPE html><html><head><meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="VDn45LoPerOOmkScRYveo2iUgbzoxd7wa9lkN8LUIYvfGya0dw48ptrK3Wx6Hi1KVYkK3QMJDisq1g29nOGISA" /></head><body>
+<turbo-stream action="update" target="program_show"><template>
+  <turbo-frame data-viewing-session-id="615b5824630980ca301744a2e04f81bafb7f9f596502a6b311ce19fd97953c42" id="program_player">
+      <div class="hidden"
+     data-controller="integrations"
+     data-integrations-facebook-pixel-enabled-value="false"
+     data-integrations-google-tag-manager-enabled-value="true"
+     data-integrations-google-analytics-enabled-value="true"
+>
+  <span class="hidden"
+        data-integrations-target="gTag"
+        data-event="ViewContent"
+        data-payload-attributes='["content_name"]'
+        data-payload-values='[&quot;Basics: The Triangle Choke&quot;]'
+  ></span>
+  <span class="hidden"
+        data-integrations-target="fbPx"
+        data-event="ViewContent"
+        data-payload-attributes='["content_name"]'
+        data-payload-values='[&quot;Basics: The Triangle Choke&quot;]'
+  ></span>
+</div>
+
+<div class="collection pt-0 lg:pt-4">
+    <div
+      class='container hotwired'
+      id="collection_cover"
+      data-controller="program program-details-modal"
+      data-program-id="2750407"
+    >
+      
+<ds-modal no-background="" size="small" with-close-icon id="more-details-modal" data-action="close->program-details-modal#closeDetailModal">
+  <div class="bg-ds-default">
+    <div class="p-6 pb-0 max-h-[calc(100vh-190px)] overflow-y-auto">
+      <p class="text-ds-default text-ds-large-bold mb-4">Basics: The Triangle Choke</p>
+      <p class="text-ds-small-semi-bold-uppercase text-ds-muted mb-4">About</p>
+      <div class="content-description text-ds-base-regular text-ds-default mb-6" data-program-details-modal-target="modalContent"></div>
+      <div class="p-4 bg-ds-overlay flex flex-col gap-2 rounded overflow-x-auto">
+        <div class="flex w-full gap-2">
+          <div class="text-ds-small-medium text-ds-default w-[100px]">Released</div>
+          <div class="text-ds-small-regular text-ds-default">December 2023</div>
+        </div>
+          <div class="flex w-full gap-2">
+              <div class="text-ds-small-medium text-ds-default w-[100px] shrink-0">Categories</div>
+            <div class="flex flex-col w-full">
+                <div class="flex">
+                  <a
+                    class="shrink-0 text-primary text-ds-small-medium inline-block mr-1"
+                    target="_blank"
+                    href="/categories/category-xoeIp4q9qz8"
+                  >
+                    Basics
+                  </a>
+                  <span class="shrink-0 inline-block text-ds-small-regular text-ds-muted">
+                    (135 videos)
+                  </span>
+                </div>
+                <div class="flex">
+                  <a
+                    class="shrink-0 text-primary text-ds-small-medium inline-block mr-1"
+                    target="_blank"
+                    href="/categories/recently-added"
+                  >
+                    Recently Added
+                  </a>
+                  <span class="shrink-0 inline-block text-ds-small-regular text-ds-muted">
+                    (1385 videos)
+                  </span>
+                </div>
+            </div>
+          </div>
+      </div>
+    </div>
+    <div class="text-right p-6 pt-2">
+      <ds-button variant="primary" onclick="document.getElementById('more-details-modal').close()">Close</ds-button>
+    </div>
+  </div>
+</ds-modal>
+
+<div class="flex flex-col lg:flex-row gap-x-12">
+    <div class="h-full w-full lg:w-[55%] relative">
+        <img src="https://alpha.uscreencdn.com/images/programs/2750407/horizontal/3930c3da-ebb6-4e99-84ea-d6ec35462875.jpg" class="aspect-video rounded h-auto">
+    </div>
+  <div id="program_about" class="w-full lg:w-[45%] lg:mb-5">
+      <p class="text-primary text-ds-tiny-bold-uppercase mb-1 mt-4 lg:mt-0">
+        <ds-icon class="inline-block align-sub" size="16px" name='playlist'></ds-icon> Collection
+      </p>
+      <h1 class="text-ds-title-2-semi-bold mt-2 lg:mt-0">
+        Basics: The Triangle Choke
+      </h1>
+    <div class="mt-4 text-ds-small-regular">
+      <div aria-expanded=true class="content-description line-clamp-3 max-h-[60px] xl:line-clamp-[7] xl:max-h-[140px] xl:aria-expanded:line-clamp-[11] xl:aria-expanded:max-h-[220px]" data-program-details-modal-target="description">
+        <div class="editor-content"><p>In this basic mini series Fran Papasidero covers the principles behind finishing the triangle choke alongside other attacks from opponents defenses.&nbsp;</p></div>
+      </div>
+      <ds-button variant="text" data-action="click->program-details-modal#openDetailModal" class="cursor-pointer">Learn more</ds-button>
+    </div>
+    <div class="mt-4 flex flex-col sm:flex-row gap-2 ">
+            <ds-dropdown data-test="subscriptions-list" float="center" sm="float:left" class="w-full">
+              <ds-button class="w-full" slot="control" variant="primary">
+                  Subscribe to watch
+                <ds-icon slot="after" name='chevron-down'></ds-icon>
+              </ds-button>
+              <div
+                slot="content"
+                class="p-6 pt-4 w-screen max-w-screen-md sm:max-w-md box-border sm:w-auto"
+              >
+                <p class="text-ds-small-regular mb-4">Select a membership:</p>
+                  <a
+                    href="/checkout/new?o=69905"
+                    class="mb-4 last:mb-0 rounded w-full border border-solid border-ds-default flex hover:opacity-70 transition-opacity"
+                  >
+                      <div class="h-[4rem] sm:h-[7rem] max-w-[112px] w-full sm:max-w-[192px] flex shrink-0">
+                        <img class="h-full max-w-full max-h-full rounded-l mr-auto" src="https://alpha.uscreencdn.com/images/offer/69905/big_MONTHLY-SUBSCRIPTION.1669176440.jpg">
+                      </div>
+                    <div class="py-1 px-2 sm:px-3 sm:py-3 flex flex-col items-start justify-center w-full">
+                      <p class="text-ds-tiny-bold-uppercase text-primary">
+                        Monthly
+                      </p>
+                      <p class="!hidden sm:!block text-ds-tiny-regular mb-1 max-x-[2rem] overflow-hidden">
+                        Monthly Subscription
+                      </p>
+                        <div class="flex flex-col items-start">
+                          <span class="text-ds-base-semi-bold">
+                            Free for 3 days
+                          </span>
+                          <span class="text-ds-tiny-regular text-ds-muted sm:whitespace-nowrap">
+                            USD $24.99/month after trial
+                          </span>
+                        </div>
+                    </div>
+                  </a>
+                  <a
+                    href="/checkout/new?o=68715"
+                    class="mb-4 last:mb-0 rounded w-full border border-solid border-ds-default flex hover:opacity-70 transition-opacity"
+                  >
+                      <div class="h-[4rem] sm:h-[7rem] max-w-[112px] w-full sm:max-w-[192px] flex shrink-0">
+                        <img class="h-full max-w-full max-h-full rounded-l mr-auto" src="https://alpha.uscreencdn.com/images/offer/68715/big_12-MONTH-SUBSCRIPTION.1669176396.jpg">
+                      </div>
+                    <div class="py-1 px-2 sm:px-3 sm:py-3 flex flex-col items-start justify-center w-full">
+                      <p class="text-ds-tiny-bold-uppercase text-primary">
+                        Annually
+                      </p>
+                      <p class="!hidden sm:!block text-ds-tiny-regular mb-1 max-x-[2rem] overflow-hidden">
+                        12 Month Subscription
+                      </p>
+                        <div class="flex flex-col items-start">
+                          <span class="text-ds-base-semi-bold">
+                            Free for 3 days
+                          </span>
+                          <span class="text-ds-tiny-regular text-ds-muted sm:whitespace-nowrap">
+                            USD $249.99/year after trial
+                          </span>
+                        </div>
+                    </div>
+                  </a>
+              </div>
+            </ds-dropdown>
+    </div>
+  </div>
+</div>
+
+    </div>
+
+  <div class="collection-videos relative bg-ds-overlay border-y border-ds-default mt-4" id="program_playlist">
+    <div class="container">
+      <div
+        class="py-8"
+        data-area="playlist"
+        data-controller="playlist-modal"
+        data-playlist-modal-root-url-value="https://aojplus.artofjiujitsu.com"
+      >
+          <ds-modal
+            id="free-video-modal"
+            size="large"
+            with-close-icon
+            close-icon-in-backdrop
+            no-background
+            
+            data-action="close->playlist-modal#stopVideo"
+            data-playlist-modal-target="modal"
+          >
+            <div data-controller="integrations"
+                 data-integrations-facebook-pixel-enabled-value="false"
+                 data-integrations-google-tag-manager-enabled-value="true"
+                 data-integrations-google-analytics-enabled-value="true"
+                 class="bg-ds-subtle"
+            >
+              <turbo-frame id="free_program"></turbo-frame>            </div>
+          </ds-modal>
+
+        <div class="flex items-center justify-between mb-5">
+          <p class="collection-videos-counter text-ds-tiny-semi-bold-uppercase" data-area="counter">
+            <ds-icon size="16px" class="pr-1 inline-block align-bottom" name='playlist'></ds-icon>
+            Videos (5)
+          </p>
+        </div>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3490613">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Triangle Set Ups" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2750391/horizontal/01079912-5c9d-4839-b0b9-745b418a4b87.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2750391/horizontal/01079912-5c9d-4839-b0b9-745b418a4b87.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2750391/horizontal/01079912-5c9d-4839-b0b9-745b418a4b87.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2750391/horizontal/01079912-5c9d-4839-b0b9-745b418a4b87.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">15:31</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Triangle Set Ups</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3490614">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Finishing The Triangle" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2750366/horizontal/9eb8642d-d1ad-46b0-a513-3566824c721a.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2750366/horizontal/9eb8642d-d1ad-46b0-a513-3566824c721a.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2750366/horizontal/9eb8642d-d1ad-46b0-a513-3566824c721a.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2750366/horizontal/9eb8642d-d1ad-46b0-a513-3566824c721a.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:27</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Finishing The Triangle</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3490615">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Joint Locks From Triangle Defense" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2750375/horizontal/f5b85dd2-a8dc-475f-9108-491bf1925630.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2750375/horizontal/f5b85dd2-a8dc-475f-9108-491bf1925630.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2750375/horizontal/f5b85dd2-a8dc-475f-9108-491bf1925630.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2750375/horizontal/f5b85dd2-a8dc-475f-9108-491bf1925630.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:34</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Joint Locks From Triangle Defense</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3490616">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Armbar When Opponent Stacks From The Triangle " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2750359/horizontal/e7077849-93d6-4a53-b529-4fb782883732.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2750359/horizontal/e7077849-93d6-4a53-b529-4fb782883732.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2750359/horizontal/e7077849-93d6-4a53-b529-4fb782883732.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2750359/horizontal/e7077849-93d6-4a53-b529-4fb782883732.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">04:15</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Armbar When Opponent Stacks From The Triangle </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <div class="content-item block pointer-events-none swiper-slide" data-cid="3490617">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Establishing Top Position + Finishing From Mount" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2750396/horizontal/ebaa15e9-70d9-4be0-9b73-97be78fc6cb3.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2750396/horizontal/ebaa15e9-70d9-4be0-9b73-97be78fc6cb3.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2750396/horizontal/ebaa15e9-70d9-4be0-9b73-97be78fc6cb3.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2750396/horizontal/ebaa15e9-70d9-4be0-9b73-97be78fc6cb3.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">04:32</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Establishing Top Position + Finishing From Mount</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </div>
+
+                </swiper-slide>
+            </ds-swiper>
+        <ds-show-more
+          style="--ds-show-more-fade-color: transparent;"
+          content-not-clickable
+          class="!hidden md:!block"
+          float="center"
+          disabled="true"
+          once
+          max-height="550"
+          md="disabled:false"
+          lg="max-height:900"
+        >
+          <ds-button slot="button" class="collection-videos-button mt-6">Show all videos</ds-button>
+          <div slot="content" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6" data-area="chapters">
+                <div class="content-item block pointer-events-none" data-cid="3490613">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Triangle Set Ups" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2750391/horizontal/01079912-5c9d-4839-b0b9-745b418a4b87.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2750391/horizontal/01079912-5c9d-4839-b0b9-745b418a4b87.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2750391/horizontal/01079912-5c9d-4839-b0b9-745b418a4b87.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2750391/horizontal/01079912-5c9d-4839-b0b9-745b418a4b87.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">15:31</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Triangle Set Ups</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3490614">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Finishing The Triangle" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2750366/horizontal/9eb8642d-d1ad-46b0-a513-3566824c721a.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2750366/horizontal/9eb8642d-d1ad-46b0-a513-3566824c721a.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2750366/horizontal/9eb8642d-d1ad-46b0-a513-3566824c721a.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2750366/horizontal/9eb8642d-d1ad-46b0-a513-3566824c721a.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:27</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Finishing The Triangle</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3490615">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Joint Locks From Triangle Defense" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2750375/horizontal/f5b85dd2-a8dc-475f-9108-491bf1925630.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2750375/horizontal/f5b85dd2-a8dc-475f-9108-491bf1925630.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2750375/horizontal/f5b85dd2-a8dc-475f-9108-491bf1925630.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2750375/horizontal/f5b85dd2-a8dc-475f-9108-491bf1925630.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:34</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Joint Locks From Triangle Defense</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3490616">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Armbar When Opponent Stacks From The Triangle " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2750359/horizontal/e7077849-93d6-4a53-b529-4fb782883732.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2750359/horizontal/e7077849-93d6-4a53-b529-4fb782883732.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2750359/horizontal/e7077849-93d6-4a53-b529-4fb782883732.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2750359/horizontal/e7077849-93d6-4a53-b529-4fb782883732.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">04:15</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Armbar When Opponent Stacks From The Triangle </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+                <div class="content-item block pointer-events-none" data-cid="3490617">
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Establishing Top Position + Finishing From Mount" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2750396/horizontal/ebaa15e9-70d9-4be0-9b73-97be78fc6cb3.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2750396/horizontal/ebaa15e9-70d9-4be0-9b73-97be78fc6cb3.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2750396/horizontal/ebaa15e9-70d9-4be0-9b73-97be78fc6cb3.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2750396/horizontal/ebaa15e9-70d9-4be0-9b73-97be78fc6cb3.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">04:32</span>
+      </div>
+      <div class="absolute flex items-center justify-center inset-0 bg-transparent-light text-white rounded" data-test="lock-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20" data-area="lock-icon" height="18" width="20"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.927 18.872H3.634C2.18 18.872 1 17.727 1 16.312V10.35c0-1.413 1.18-2.56 2.634-2.56h10.293c1.455 0 2.634 1.147 2.634 2.56v5.964c0 1.414-1.179 2.56-2.634 2.56z"></path><path d="M3.81 7.79V5.83C3.81 3.162 6.035 1 8.78 1c2.746 0 4.97 2.162 4.97 4.829V7.79"></path></g></svg>
+
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Establishing Top Position + Finishing From Mount</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </div>
+
+          </div>
+        </ds-show-more>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+</turbo-frame></template></turbo-stream></body></html>

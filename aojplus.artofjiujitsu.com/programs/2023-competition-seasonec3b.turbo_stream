@@ -1,0 +1,1713 @@
+<!DOCTYPE html><html><head><meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="r4cejn0Y-oA2gDHW0b1kP5cn7U2WQ4bpucVIKgYGK1STB-QXXmI2dajn4uE0vjZoq5_sMffSPx2SM3majYK3YQ" /></head><body>
+<turbo-stream action="update" target="program_show"><template>
+  <turbo-frame data-viewing-session-id="d394c3b4553b4365d5d0172569fbbed712c91e5c2c9de3f8a0e3ba1697ec44dd" id="program_player">
+      <div class="hidden"
+     data-controller="integrations"
+     data-integrations-facebook-pixel-enabled-value="false"
+     data-integrations-google-tag-manager-enabled-value="true"
+     data-integrations-google-analytics-enabled-value="true"
+>
+  <span class="hidden"
+        data-integrations-target="gTag"
+        data-event="ViewContent"
+        data-payload-attributes='["content_name"]'
+        data-payload-values='[&quot;2023 Competition Season&quot;]'
+  ></span>
+  <span class="hidden"
+        data-integrations-target="fbPx"
+        data-event="ViewContent"
+        data-payload-attributes='["content_name"]'
+        data-payload-values='[&quot;2023 Competition Season&quot;]'
+  ></span>
+</div>
+
+<div class="collection pt-0 lg:pt-4">
+    <div
+      class='container hotwired'
+      data-controller="program"
+      data-program-id="2222148"
+    >
+      <div>
+
+        
+<div class="collection-header block md:flex items-start justify-between mb-6" id="collection_header">
+  <div class="flex-1 md:me-4">
+    <p class="collection-lable text-primary text-ds-tiny-bold-uppercase mb-1">
+      <ds-icon class="inline-block align-sub" size="16px" name='playlist'></ds-icon> Collection
+    </p>
+    <h1 class="collection-title text-ds-title-2-semi-bold mb-4 md:mb-0 max-w-full mt-1" data-area="collection-title">
+      2023 Competition Season
+    </h1>
+  </div>
+  <div>
+      <div class="collection-buttons flex mt-4 lg:items-start lg:mt-0 gap-2" data-area="program-buttons">
+        <ds-button
+          data-turbo="true" data-turbo-frame="program_show" data-turbo-action="advance"
+          variant="primary"
+          href="/programs/2023-competition-season?cid=3514040"
+          class="collection-buttons--watch w-auto min-w-fit"
+        >
+            Start watching
+        </ds-button>
+
+        
+
+        <ds-button
+          class="collection-buttons--share w-full lg:w-auto"
+          data-controller="share-button"
+          only-icon
+          lg="only-icon:false"
+          data-action="click->share-button#show"
+          data-share-button-content-value='{"main_poster":"https://alpha.uscreencdn.com/images/programs/2222148/horizontal/small_2023-horizontal-cole.1682451714.jpg"}'
+          data-area="share-button">
+          <ds-icon slot="before" name='share'></ds-icon>
+          <span class="hidden lg:!inline">Share</span>
+        </ds-button>
+      </div>
+  </div>
+</div>
+
+        <div class="content-about w-full lg:mt-1 mt-5" id="program_about">
+          
+  <ds-show-more
+    style="--ds-show-more-fade-color: var(--section-background-color);"
+    lines="6"
+    class="mt-1"
+    float="left"
+    show-more-title="Show more"
+    show-less-title="Show less"
+  >
+    <div
+      class="content-description program-description-text"
+      slot="content"
+      data-area="about-description"
+      data-controller="timestamp"
+    >
+      <div class="editor-content"><p>Exclusive competition coverage, interviews, training highlights and more focused on Art of Jiu Jitsu athletes for the 2023 competition season.</p></div>
+    </div>
+  </ds-show-more>
+
+  <div class="content-categories flex flex-wrap mt-5" data-area="program-categories">
+      <a class="category block dark:bg-white dark:text-black rounded bg-black text-white py-1 px-3 text-sm font-bold me-2 mb-2" data-area="category-item" href="/categories/originals">Originals</a>
+  </div>
+  <turbo-frame loading="lazy" id="program_resources" src="/programs/2023-competition-season/resources"></turbo-frame>
+
+        </div>
+        <turbo-frame loading="lazy" class="fixed bg-transparent-dark inset-0 flex items-center justify-center z-50 hidden" data-container="true" data-action="click-&gt;program#hideTrailer" id="program_trailer" src="/programs/2023-competition-season/trailer"></turbo-frame>
+      </div>
+    </div>
+
+  <div class="collection-videos relative bg-ds-overlay border-y border-ds-default mt-4" id="program_playlist">
+    <div class="container">
+      <div
+        class="py-8"
+        data-area="playlist"
+      >
+
+        <div class="flex items-center justify-between mb-5">
+          <p class="collection-videos-counter text-ds-tiny-semi-bold-uppercase" data-area="counter">
+            <ds-icon size="16px" class="pr-1 inline-block align-bottom" name='playlist'></ds-icon>
+            Videos (42)
+          </p>
+        </div>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            2023 IBJJF Crown
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3514040&amp;permalink=all-access-tainan-dalpra-the-crown"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3514040"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="All Access: Tainan Dalpra (The Crown)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2725513/horizontal/t.1700353215.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2725513/horizontal/t.1700353215.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2725513/horizontal/t.1700353215.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2725513/horizontal/t.1700353215.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">05:50</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">All Access: Tainan Dalpra (The Crown)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            2023 Australia
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3250874&amp;permalink=tainan-dalpra-wins-via-submission-in-australia"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3250874"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Tainan Dalpra wins via submission in Australia" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2521970/horizontal/tainan.1690902073.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2521970/horizontal/tainan.1690902073.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2521970/horizontal/tainan.1690902073.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2521970/horizontal/tainan.1690902073.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:47</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Tainan Dalpra wins via submission in Australia</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3250875&amp;permalink=cole-abate-wins-black-belt-debut-in-australia"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3250875"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Cole Abate wins his black belt debut in Australia" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2520860/horizontal/cole-debut.1690834477.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2520860/horizontal/cole-debut.1690834477.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2520860/horizontal/cole-debut.1690834477.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2520860/horizontal/cole-debut.1690834477.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:52</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Cole Abate wins his black belt debut in Australia</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            2023 IBJJF Asian Open
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3215819&amp;permalink=cole-abate-receives-his-black-belt-at-the-2023-ibjjf-asian-open"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3215819"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Cole Abate receives his black belt at the 2023 IBJJF Asian Open" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2444641/horizontal/cole-vlog.1689365698.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2444641/horizontal/cole-vlog.1689365698.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2444641/horizontal/cole-vlog.1689365698.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2444641/horizontal/cole-vlog.1689365698.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:10</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Cole Abate receives his black belt at the 2023 IBJJF Asian Open</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3215820&amp;permalink=jeremy-abate-reflects-on-coles-black-belt-promotion-in-japan-2023"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3215820"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Jeremy Abate reflects on Cole&#39;s black belt promotion in Japan" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2446662/horizontal/j.1689596079.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2446662/horizontal/j.1689596079.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2446662/horizontal/j.1689596079.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2446662/horizontal/j.1689596079.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">08:47</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Jeremy Abate reflects on Cole&#39;s black belt promotion in Japan</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3215821&amp;permalink=tainan-dalpra-discusses-his-experience-in-japan-2023"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3215821"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Tainan Dalpra discusses his experience in Japan 2023" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2446624/horizontal/t.1689596207.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2446624/horizontal/t.1689596207.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2446624/horizontal/t.1689596207.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2446624/horizontal/t.1689596207.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:39</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Tainan Dalpra discusses his experience in Japan 2023</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3213298&amp;permalink=black-belts-2023-ibjjf-asian-open-gui-mendes"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3213298"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Black belts from the 2023 IBJJF Asian Open" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2428928/horizontal/g.1689178715.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2428928/horizontal/g.1689178715.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2428928/horizontal/g.1689178715.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2428928/horizontal/g.1689178715.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:48</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Black belts from the 2023 IBJJF Asian Open</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            2023 IBJJF World Championship
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3156328&amp;permalink=day-04-action-black-belt-semi-finals-worlds-championships"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3156328"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Day 04 Action: Black Belt Semi-Finals &amp; Finals (2023 IBJJF World Championships)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2332688/horizontal/sunday.1685997289.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2332688/horizontal/sunday.1685997289.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2332688/horizontal/sunday.1685997289.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2332688/horizontal/sunday.1685997289.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">12:02</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Day 04 Action: Black Belt Semi-Finals &amp; Finals (2023 IBJJF World Championships)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3153165&amp;permalink=black-belt-action-from-day-03-2023-world-championships"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3153165"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Black Belt Action from Day 03 of the 2023 IBJJF World Championships" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2329137/horizontal/day-03.1685855999.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2329137/horizontal/day-03.1685855999.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2329137/horizontal/day-03.1685855999.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2329137/horizontal/day-03.1685855999.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">08:31</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Black Belt Action from Day 03 of the 2023 IBJJF World Championships</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3156329&amp;permalink=athlete-exclusive-shelby-murphey-2023-ibjjf-world-championships"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3156329"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Athlete Exclusive: Shelby Murphey (2023 IBJJF World Championships)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2329538/horizontal/shelby.1685995895.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2329538/horizontal/shelby.1685995895.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2329538/horizontal/shelby.1685995895.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2329538/horizontal/shelby.1685995895.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:32</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Athlete Exclusive: Shelby Murphey (2023 IBJJF World Championships)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3151501&amp;permalink=athlete-exclusive-cole-abate-2023-ibjjf-world-championships"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3151501"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Athlete Exclusive: Cole Abate (2023 IBJJF World Championships)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2326270/horizontal/cole-abate.1685712082.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2326270/horizontal/cole-abate.1685712082.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2326270/horizontal/cole-abate.1685712082.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2326270/horizontal/cole-abate.1685712082.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:44</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Athlete Exclusive: Cole Abate (2023 IBJJF World Championships)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            Brown Belt Grand Prix
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3107604&amp;permalink=cole-abate-brown-belt-grand-prix-champion"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3107604"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Cole Abate (Brown Belt Grand Prix Champion)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2246247/horizontal/cole.1683645013.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2246247/horizontal/cole.1683645013.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2246247/horizontal/cole.1683645013.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2246247/horizontal/cole.1683645013.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:08</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Cole Abate (Brown Belt Grand Prix Champion)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3107605&amp;permalink=tower-bjj-vlog-b2d945"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3107605"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Cole Abate: Behind the Scenes of Brown Belt Grand Prix" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2246319/horizontal/cole.1683648190.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2246319/horizontal/cole.1683648190.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2246319/horizontal/cole.1683648190.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2246319/horizontal/cole.1683648190.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:33</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Cole Abate: Behind the Scenes of Brown Belt Grand Prix</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            2023 IBJJF Brazilians Nationals
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3108824&amp;permalink=mayssa-bastos-wins-gold-at-2023-ibjjf-brazilian-nationals"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3108824"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Mayssa Bastos wins gold at 2023 IBJJF Brazilian Nationals" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2250629/horizontal/mayssa-bastos.1683759052.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2250629/horizontal/mayssa-bastos.1683759052.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2250629/horizontal/mayssa-bastos.1683759052.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2250629/horizontal/mayssa-bastos.1683759052.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:13</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Mayssa Bastos wins gold at 2023 IBJJF Brazilian Nationals</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3106817&amp;permalink=tainan-dalpra-2023-brazilian-nationals-champion"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3106817"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Tainan Dalpra 2023 IBJJF Brazilian Nationals Champion" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2246384/horizontal/tainan-brazil.1683642958.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2246384/horizontal/tainan-brazil.1683642958.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2246384/horizontal/tainan-brazil.1683642958.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2246384/horizontal/tainan-brazil.1683642958.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">08:43</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Tainan Dalpra 2023 IBJJF Brazilian Nationals Champion</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3095621&amp;permalink=mick-whelan-submits-all-three-of-his-fights-2023-brazilian-nationals"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3095621"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Mick Whelan submits all three of his fights at 2023 Brazilian Nationals" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2233434/horizontal/mick-whelan.1682985728.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2233434/horizontal/mick-whelan.1682985728.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2233434/horizontal/mick-whelan.1682985728.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2233434/horizontal/mick-whelan.1682985728.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">01:45</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Mick Whelan submits all three of his fights at 2023 Brazilian Nationals</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3096579&amp;permalink=ricardo-yoshito-wins-second-brasileiros"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3096579"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Ricardo Yoshito wins his second Brasileiros title" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2235078/horizontal/ricardo-yoshito.1683054349.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2235078/horizontal/ricardo-yoshito.1683054349.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2235078/horizontal/ricardo-yoshito.1683054349.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2235078/horizontal/ricardo-yoshito.1683054349.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:30</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Ricardo Yoshito wins his second Brasileiros title</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3096947&amp;permalink=pedro-fontes-juvenile-blue-belt-champion-2023-brasileiros"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3096947"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Pedro Fontes juvenile blue belt champion at Brasileiros" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2235466/horizontal/pedro-fontes.1683070307.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2235466/horizontal/pedro-fontes.1683070307.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2235466/horizontal/pedro-fontes.1683070307.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2235466/horizontal/pedro-fontes.1683070307.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">01:14</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Pedro Fontes juvenile blue belt champion at Brasileiros</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3087258&amp;permalink=dalpra-garage-workout-in-preparation-for-the-2023-brazilian-nationals"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3087258"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Dalpra Garage Workout in preparation for the 2023 IBJJF Brazilian Nationals" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2224850/horizontal/t.1682552478.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2224850/horizontal/t.1682552478.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2224850/horizontal/t.1682552478.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2224850/horizontal/t.1682552478.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:56</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Dalpra Garage Workout in preparation for the 2023 IBJJF Brazilian Nationals</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085179&amp;permalink=tainan-dalpra-campeonato-brasileiro-2023"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085179"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Tainan Dalpra talks about his decision to compete at Brazilian Nationals" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2222235/horizontal/t.1682708368.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2222235/horizontal/t.1682708368.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2222235/horizontal/t.1682708368.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2222235/horizontal/t.1682708368.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:21</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Tainan Dalpra talks about his decision to compete at Brazilian Nationals</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            2023 ADCC Open
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3094754&amp;permalink=felipe-goulart-adcc-open-juvenile-champion"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3094754"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Felipe Goulart (ADCC Open Champion)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2232566/horizontal/felipe.1682955796.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2232566/horizontal/felipe.1682955796.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2232566/horizontal/felipe.1682955796.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2232566/horizontal/felipe.1682955796.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">01:55</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Felipe Goulart (ADCC Open Champion)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3094755&amp;permalink=funegra-sisters-win-advanced-division-at-2023-adcc-open"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3094755"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Funegra Sisters win Advanced Division at the 2023 ADCC Open" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2232603/horizontal/funegra.1682956832.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2232603/horizontal/funegra.1682956832.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2232603/horizontal/funegra.1682956832.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2232603/horizontal/funegra.1682956832.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:27</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Funegra Sisters win Advanced Division at the 2023 ADCC Open</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            2023 IBJJF Nashville Spring Open
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085437&amp;permalink=cole-abate-wins-gold-at-the-2023-ibjjf-nashville-spring-open"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085437"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Cole Abate wins gold at the 2023 IBJJF Nashville Spring Open" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2222623/horizontal/cole-gi.1682453933.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2222623/horizontal/cole-gi.1682453933.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2222623/horizontal/cole-gi.1682453933.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2222623/horizontal/cole-gi.1682453933.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:11</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Cole Abate wins gold at the 2023 IBJJF Nashville Spring Open</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085440&amp;permalink=nogi-double-gold-for-cole-abate-2023-ibjjf-nashville-open"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085440"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="NOGI Double Gold for Cole Abate at the 2023 IBJJF Nashville Spring Open" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2222640/horizontal/cole-nogigi.1682454410.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2222640/horizontal/cole-nogigi.1682454410.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2222640/horizontal/cole-nogigi.1682454410.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2222640/horizontal/cole-nogigi.1682454410.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:35</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">NOGI Double Gold for Cole Abate at the 2023 IBJJF Nashville Spring Open</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            2023 IBJJF Pan Am Championship
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085133&amp;permalink=part-01-competition-breakdown-cole-abate-ibjjf-pan-ams"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085133"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Part 01 Competition Breakdown: Cole Abate" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2179098/horizontal/part-01.1680709725.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2179098/horizontal/part-01.1680709725.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2179098/horizontal/part-01.1680709725.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2179098/horizontal/part-01.1680709725.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">09:27</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Part 01 Competition Breakdown: Cole Abate</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085134&amp;permalink=part-02-competition-breakdown-cole-abate-2023-ibjjf-pan-ams"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085134"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Part 02 Competition Breakdown: Cole Abate" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2179159/horizontal/part-02.1680710417.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2179159/horizontal/part-02.1680710417.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2179159/horizontal/part-02.1680710417.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2179159/horizontal/part-02.1680710417.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">09:42</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Part 02 Competition Breakdown: Cole Abate</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085135&amp;permalink=part-03-competition-breakdown-cole-abate-2023-ibjjf-pan-ams"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085135"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Part 03 Competition Breakdown: Cole Abate" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2179194/horizontal/part-03.1680710446.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2179194/horizontal/part-03.1680710446.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2179194/horizontal/part-03.1680710446.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2179194/horizontal/part-03.1680710446.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:25</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Part 03 Competition Breakdown: Cole Abate</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085145&amp;permalink=competition-breakdown-pablo-lavaselli-pan-ams-2023"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085145"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Competition Breakdown: Pablo Lavaselli" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2183536/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2183536/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2183536/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2183536/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">14:39</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Competition Breakdown: Pablo Lavaselli</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085136&amp;permalink=2023-ibjjf-pan-am-champion-tainan-dalpra"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085136"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="2023 IBJJF Pan Am Champion Tainan Dalpra" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2172122/horizontal/tainan-pan-ams.1682455516.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2172122/horizontal/tainan-pan-ams.1682455516.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2172122/horizontal/tainan-pan-ams.1682455516.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2172122/horizontal/tainan-pan-ams.1682455516.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:03</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">2023 IBJJF Pan Am Champion Tainan Dalpra</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085137&amp;permalink=johnatha-alves-talks-about-winning-his-4th-pan-ams-title"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085137"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Johnatha Alves talks about winning his 4th Pan Ams title" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2172116/horizontal/john-pan-ams.1682455898.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2172116/horizontal/john-pan-ams.1682455898.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2172116/horizontal/john-pan-ams.1682455898.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2172116/horizontal/john-pan-ams.1682455898.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">01:27</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Johnatha Alves talks about winning his 4th Pan Ams title</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085138&amp;permalink=tainan-dalpra-talks-about-his-opponents-2023-pan-ams"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085138"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Tainan Dalpra talks about his opponents at the 2023 Pan Ams" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2172124/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2172124/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2172124/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2172124/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">01:28</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Tainan Dalpra talks about his opponents at the 2023 Pan Ams</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085139&amp;permalink=cole-abate-wins-the-brown-belt-lightweight-division-pan-ams-2023"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085139"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Cole Abate wins the brown belt lightweight division" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2165553/horizontal/c.1680036420.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2165553/horizontal/c.1680036420.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2165553/horizontal/c.1680036420.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2165553/horizontal/c.1680036420.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:50</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Cole Abate wins the brown belt lightweight division</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085143&amp;permalink=cole-abate-interview-pan-ams-2023"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085143"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Cole Abate shares about his performance, preparing for the black belt and more" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2154691/horizontal/dsc09984.1679622021.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2154691/horizontal/dsc09984.1679622021.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2154691/horizontal/dsc09984.1679622021.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2154691/horizontal/dsc09984.1679622021.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:58</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Cole Abate shares about his performance, preparing for the black belt and more</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085142&amp;permalink=gui-interview-44341-86aeca"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085142"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Gui Mendes talks about Cole Abate, black belt preparation and more" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2154685/horizontal/dsc09871.1679621774.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2154685/horizontal/dsc09871.1679621774.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2154685/horizontal/dsc09871.1679621774.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2154685/horizontal/dsc09871.1679621774.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:06</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Gui Mendes talks about Cole Abate, black belt preparation and more</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085411&amp;permalink=gui-mendes-talks-gustavo-ogawa-steve-gomez"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085411"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Gui Mendes talks about Gustavo Ogawa &amp; Steve Gomez" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2166204/horizontal/g.1680039346.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2166204/horizontal/g.1680039346.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2166204/horizontal/g.1680039346.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2166204/horizontal/g.1680039346.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">01:45</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Gui Mendes talks about Gustavo Ogawa &amp; Steve Gomez</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085412&amp;permalink=gustavo-ogawa-closes-out-purple-belt-featherweight"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085412"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Gustavo Ogawa closes out purple belt featherweight with Steve Gomez" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2165902/horizontal/g.1680038394.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2165902/horizontal/g.1680038394.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2165902/horizontal/g.1680038394.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2165902/horizontal/g.1680038394.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:55</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Gustavo Ogawa closes out purple belt featherweight with Steve Gomez</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085413&amp;permalink=steve-gomez-talks-closing-out-with-teammate-gustavo-ogawa"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085413"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Steve Gomez talks closing out with teammate Gustavo Ogawa" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2166050/horizontal/s.1680038443.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2166050/horizontal/s.1680038443.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2166050/horizontal/s.1680038443.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2166050/horizontal/s.1680038443.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">01:04</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Steve Gomez talks closing out with teammate Gustavo Ogawa</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085146&amp;permalink=double-gold-performance-felipe-goulart"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085146"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Double gold performance by Felipe Goulart" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2167605/horizontal/felipe.1680107745.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2167605/horizontal/felipe.1680107745.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2167605/horizontal/felipe.1680107745.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2167605/horizontal/felipe.1680107745.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:24</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Double gold performance by Felipe Goulart</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085144&amp;permalink=ashlee-and-mia-funegra-win-double-gold"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085144"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Ashlee and Mia Funegra win double gold " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2167350/horizontal/funegras.1680105681.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2167350/horizontal/funegras.1680105681.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2167350/horizontal/funegras.1680105681.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2167350/horizontal/funegras.1680105681.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">04:30</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Ashlee and Mia Funegra win double gold </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085140&amp;permalink=juvenile-champion-pedro-fontes-at-2023-pan-ams"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085140"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Juvenile champion Pedro Fontes at 2023 Pan Ams" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2167609/horizontal/pedro.1680107627.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2167609/horizontal/pedro.1680107627.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2167609/horizontal/pedro.1680107627.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2167609/horizontal/pedro.1680107627.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:16</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Juvenile champion Pedro Fontes at 2023 Pan Ams</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3085141&amp;permalink=max-schwarz-captures-double-gold"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3085141"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Max Schwartz captures double gold at Pan Ams" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2167613/horizontal/max.1680107505.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2167613/horizontal/max.1680107505.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2167613/horizontal/max.1680107505.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2167613/horizontal/max.1680107505.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:43</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Max Schwartz captures double gold at Pan Ams</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+            </ds-swiper>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            2023 IBJJF Los Angeles Open
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <a
+    href="/programs/2023-competition-season?cid=3108168&amp;permalink=competition-breakdown-ibjjf-los-angeles-open"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3108168"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Competition Breakdown: IBJJF Los Angeles Open" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2248152/horizontal/cole-la.1683732633.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2248152/horizontal/cole-la.1683732633.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2248152/horizontal/cole-la.1683732633.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2248152/horizontal/cole-la.1683732633.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">12:12</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Competition Breakdown: IBJJF Los Angeles Open</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+            </ds-swiper>
+        <ds-show-more
+          style="--ds-show-more-fade-color: transparent;"
+          content-not-clickable
+          class="!hidden md:!block"
+          float="center"
+          disabled="true"
+          once
+          max-height="550"
+          md="disabled:false"
+          lg="max-height:900"
+        >
+          <ds-button slot="button" class="collection-videos-button mt-6">Show all videos</ds-button>
+          <div slot="content" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6" data-area="chapters">
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    2023 IBJJF Crown
+  </div>
+
+                <a
+    href="/programs/2023-competition-season?cid=3514040&amp;permalink=all-access-tainan-dalpra-the-crown"
+    class="content-item block cursor-pointer"
+    data-cid="3514040"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="All Access: Tainan Dalpra (The Crown)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2725513/horizontal/t.1700353215.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2725513/horizontal/t.1700353215.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2725513/horizontal/t.1700353215.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2725513/horizontal/t.1700353215.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">05:50</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">All Access: Tainan Dalpra (The Crown)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    2023 Australia
+  </div>
+
+                <a
+    href="/programs/2023-competition-season?cid=3250874&amp;permalink=tainan-dalpra-wins-via-submission-in-australia"
+    class="content-item block cursor-pointer"
+    data-cid="3250874"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Tainan Dalpra wins via submission in Australia" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2521970/horizontal/tainan.1690902073.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2521970/horizontal/tainan.1690902073.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2521970/horizontal/tainan.1690902073.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2521970/horizontal/tainan.1690902073.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:47</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Tainan Dalpra wins via submission in Australia</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3250875&amp;permalink=cole-abate-wins-black-belt-debut-in-australia"
+    class="content-item block cursor-pointer"
+    data-cid="3250875"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Cole Abate wins his black belt debut in Australia" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2520860/horizontal/cole-debut.1690834477.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2520860/horizontal/cole-debut.1690834477.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2520860/horizontal/cole-debut.1690834477.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2520860/horizontal/cole-debut.1690834477.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:52</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Cole Abate wins his black belt debut in Australia</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    2023 IBJJF Asian Open
+  </div>
+
+                <a
+    href="/programs/2023-competition-season?cid=3215819&amp;permalink=cole-abate-receives-his-black-belt-at-the-2023-ibjjf-asian-open"
+    class="content-item block cursor-pointer"
+    data-cid="3215819"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Cole Abate receives his black belt at the 2023 IBJJF Asian Open" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2444641/horizontal/cole-vlog.1689365698.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2444641/horizontal/cole-vlog.1689365698.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2444641/horizontal/cole-vlog.1689365698.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2444641/horizontal/cole-vlog.1689365698.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:10</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Cole Abate receives his black belt at the 2023 IBJJF Asian Open</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3215820&amp;permalink=jeremy-abate-reflects-on-coles-black-belt-promotion-in-japan-2023"
+    class="content-item block cursor-pointer"
+    data-cid="3215820"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Jeremy Abate reflects on Cole&#39;s black belt promotion in Japan" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2446662/horizontal/j.1689596079.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2446662/horizontal/j.1689596079.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2446662/horizontal/j.1689596079.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2446662/horizontal/j.1689596079.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">08:47</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Jeremy Abate reflects on Cole&#39;s black belt promotion in Japan</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3215821&amp;permalink=tainan-dalpra-discusses-his-experience-in-japan-2023"
+    class="content-item block cursor-pointer"
+    data-cid="3215821"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Tainan Dalpra discusses his experience in Japan 2023" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2446624/horizontal/t.1689596207.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2446624/horizontal/t.1689596207.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2446624/horizontal/t.1689596207.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2446624/horizontal/t.1689596207.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:39</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Tainan Dalpra discusses his experience in Japan 2023</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3213298&amp;permalink=black-belts-2023-ibjjf-asian-open-gui-mendes"
+    class="content-item block cursor-pointer"
+    data-cid="3213298"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Black belts from the 2023 IBJJF Asian Open" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2428928/horizontal/g.1689178715.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2428928/horizontal/g.1689178715.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2428928/horizontal/g.1689178715.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2428928/horizontal/g.1689178715.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:48</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Black belts from the 2023 IBJJF Asian Open</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    2023 IBJJF World Championship
+  </div>
+
+                <a
+    href="/programs/2023-competition-season?cid=3156328&amp;permalink=day-04-action-black-belt-semi-finals-worlds-championships"
+    class="content-item block cursor-pointer"
+    data-cid="3156328"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Day 04 Action: Black Belt Semi-Finals &amp; Finals (2023 IBJJF World Championships)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2332688/horizontal/sunday.1685997289.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2332688/horizontal/sunday.1685997289.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2332688/horizontal/sunday.1685997289.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2332688/horizontal/sunday.1685997289.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">12:02</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Day 04 Action: Black Belt Semi-Finals &amp; Finals (2023 IBJJF World Championships)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3153165&amp;permalink=black-belt-action-from-day-03-2023-world-championships"
+    class="content-item block cursor-pointer"
+    data-cid="3153165"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Black Belt Action from Day 03 of the 2023 IBJJF World Championships" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2329137/horizontal/day-03.1685855999.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2329137/horizontal/day-03.1685855999.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2329137/horizontal/day-03.1685855999.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2329137/horizontal/day-03.1685855999.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">08:31</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Black Belt Action from Day 03 of the 2023 IBJJF World Championships</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3156329&amp;permalink=athlete-exclusive-shelby-murphey-2023-ibjjf-world-championships"
+    class="content-item block cursor-pointer"
+    data-cid="3156329"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Athlete Exclusive: Shelby Murphey (2023 IBJJF World Championships)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2329538/horizontal/shelby.1685995895.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2329538/horizontal/shelby.1685995895.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2329538/horizontal/shelby.1685995895.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2329538/horizontal/shelby.1685995895.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:32</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Athlete Exclusive: Shelby Murphey (2023 IBJJF World Championships)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3151501&amp;permalink=athlete-exclusive-cole-abate-2023-ibjjf-world-championships"
+    class="content-item block cursor-pointer"
+    data-cid="3151501"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Athlete Exclusive: Cole Abate (2023 IBJJF World Championships)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2326270/horizontal/cole-abate.1685712082.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2326270/horizontal/cole-abate.1685712082.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2326270/horizontal/cole-abate.1685712082.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2326270/horizontal/cole-abate.1685712082.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">10:44</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Athlete Exclusive: Cole Abate (2023 IBJJF World Championships)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    Brown Belt Grand Prix
+  </div>
+
+                <a
+    href="/programs/2023-competition-season?cid=3107604&amp;permalink=cole-abate-brown-belt-grand-prix-champion"
+    class="content-item block cursor-pointer"
+    data-cid="3107604"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Cole Abate (Brown Belt Grand Prix Champion)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2246247/horizontal/cole.1683645013.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2246247/horizontal/cole.1683645013.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2246247/horizontal/cole.1683645013.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2246247/horizontal/cole.1683645013.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:08</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Cole Abate (Brown Belt Grand Prix Champion)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3107605&amp;permalink=tower-bjj-vlog-b2d945"
+    class="content-item block cursor-pointer"
+    data-cid="3107605"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Cole Abate: Behind the Scenes of Brown Belt Grand Prix" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2246319/horizontal/cole.1683648190.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2246319/horizontal/cole.1683648190.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2246319/horizontal/cole.1683648190.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2246319/horizontal/cole.1683648190.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:33</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Cole Abate: Behind the Scenes of Brown Belt Grand Prix</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    2023 IBJJF Brazilians Nationals
+  </div>
+
+                <a
+    href="/programs/2023-competition-season?cid=3108824&amp;permalink=mayssa-bastos-wins-gold-at-2023-ibjjf-brazilian-nationals"
+    class="content-item block cursor-pointer"
+    data-cid="3108824"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Mayssa Bastos wins gold at 2023 IBJJF Brazilian Nationals" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2250629/horizontal/mayssa-bastos.1683759052.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2250629/horizontal/mayssa-bastos.1683759052.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2250629/horizontal/mayssa-bastos.1683759052.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2250629/horizontal/mayssa-bastos.1683759052.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:13</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Mayssa Bastos wins gold at 2023 IBJJF Brazilian Nationals</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3106817&amp;permalink=tainan-dalpra-2023-brazilian-nationals-champion"
+    class="content-item block cursor-pointer"
+    data-cid="3106817"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Tainan Dalpra 2023 IBJJF Brazilian Nationals Champion" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2246384/horizontal/tainan-brazil.1683642958.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2246384/horizontal/tainan-brazil.1683642958.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2246384/horizontal/tainan-brazil.1683642958.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2246384/horizontal/tainan-brazil.1683642958.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">08:43</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Tainan Dalpra 2023 IBJJF Brazilian Nationals Champion</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3095621&amp;permalink=mick-whelan-submits-all-three-of-his-fights-2023-brazilian-nationals"
+    class="content-item block cursor-pointer"
+    data-cid="3095621"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Mick Whelan submits all three of his fights at 2023 Brazilian Nationals" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2233434/horizontal/mick-whelan.1682985728.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2233434/horizontal/mick-whelan.1682985728.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2233434/horizontal/mick-whelan.1682985728.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2233434/horizontal/mick-whelan.1682985728.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">01:45</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Mick Whelan submits all three of his fights at 2023 Brazilian Nationals</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3096579&amp;permalink=ricardo-yoshito-wins-second-brasileiros"
+    class="content-item block cursor-pointer"
+    data-cid="3096579"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Ricardo Yoshito wins his second Brasileiros title" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2235078/horizontal/ricardo-yoshito.1683054349.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2235078/horizontal/ricardo-yoshito.1683054349.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2235078/horizontal/ricardo-yoshito.1683054349.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2235078/horizontal/ricardo-yoshito.1683054349.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:30</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Ricardo Yoshito wins his second Brasileiros title</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3096947&amp;permalink=pedro-fontes-juvenile-blue-belt-champion-2023-brasileiros"
+    class="content-item block cursor-pointer"
+    data-cid="3096947"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Pedro Fontes juvenile blue belt champion at Brasileiros" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2235466/horizontal/pedro-fontes.1683070307.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2235466/horizontal/pedro-fontes.1683070307.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2235466/horizontal/pedro-fontes.1683070307.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2235466/horizontal/pedro-fontes.1683070307.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">01:14</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Pedro Fontes juvenile blue belt champion at Brasileiros</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3087258&amp;permalink=dalpra-garage-workout-in-preparation-for-the-2023-brazilian-nationals"
+    class="content-item block cursor-pointer"
+    data-cid="3087258"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Dalpra Garage Workout in preparation for the 2023 IBJJF Brazilian Nationals" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2224850/horizontal/t.1682552478.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2224850/horizontal/t.1682552478.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2224850/horizontal/t.1682552478.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2224850/horizontal/t.1682552478.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:56</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Dalpra Garage Workout in preparation for the 2023 IBJJF Brazilian Nationals</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085179&amp;permalink=tainan-dalpra-campeonato-brasileiro-2023"
+    class="content-item block cursor-pointer"
+    data-cid="3085179"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Tainan Dalpra talks about his decision to compete at Brazilian Nationals" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2222235/horizontal/t.1682708368.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2222235/horizontal/t.1682708368.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2222235/horizontal/t.1682708368.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2222235/horizontal/t.1682708368.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:21</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Tainan Dalpra talks about his decision to compete at Brazilian Nationals</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    2023 ADCC Open
+  </div>
+
+                <a
+    href="/programs/2023-competition-season?cid=3094754&amp;permalink=felipe-goulart-adcc-open-juvenile-champion"
+    class="content-item block cursor-pointer"
+    data-cid="3094754"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Felipe Goulart (ADCC Open Champion)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2232566/horizontal/felipe.1682955796.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2232566/horizontal/felipe.1682955796.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2232566/horizontal/felipe.1682955796.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2232566/horizontal/felipe.1682955796.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">01:55</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Felipe Goulart (ADCC Open Champion)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3094755&amp;permalink=funegra-sisters-win-advanced-division-at-2023-adcc-open"
+    class="content-item block cursor-pointer"
+    data-cid="3094755"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Funegra Sisters win Advanced Division at the 2023 ADCC Open" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2232603/horizontal/funegra.1682956832.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2232603/horizontal/funegra.1682956832.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2232603/horizontal/funegra.1682956832.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2232603/horizontal/funegra.1682956832.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:27</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Funegra Sisters win Advanced Division at the 2023 ADCC Open</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    2023 IBJJF Nashville Spring Open
+  </div>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085437&amp;permalink=cole-abate-wins-gold-at-the-2023-ibjjf-nashville-spring-open"
+    class="content-item block cursor-pointer"
+    data-cid="3085437"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Cole Abate wins gold at the 2023 IBJJF Nashville Spring Open" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2222623/horizontal/cole-gi.1682453933.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2222623/horizontal/cole-gi.1682453933.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2222623/horizontal/cole-gi.1682453933.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2222623/horizontal/cole-gi.1682453933.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:11</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Cole Abate wins gold at the 2023 IBJJF Nashville Spring Open</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085440&amp;permalink=nogi-double-gold-for-cole-abate-2023-ibjjf-nashville-open"
+    class="content-item block cursor-pointer"
+    data-cid="3085440"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="NOGI Double Gold for Cole Abate at the 2023 IBJJF Nashville Spring Open" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2222640/horizontal/cole-nogigi.1682454410.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2222640/horizontal/cole-nogigi.1682454410.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2222640/horizontal/cole-nogigi.1682454410.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2222640/horizontal/cole-nogigi.1682454410.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:35</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">NOGI Double Gold for Cole Abate at the 2023 IBJJF Nashville Spring Open</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    2023 IBJJF Pan Am Championship
+  </div>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085133&amp;permalink=part-01-competition-breakdown-cole-abate-ibjjf-pan-ams"
+    class="content-item block cursor-pointer"
+    data-cid="3085133"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Part 01 Competition Breakdown: Cole Abate" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2179098/horizontal/part-01.1680709725.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2179098/horizontal/part-01.1680709725.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2179098/horizontal/part-01.1680709725.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2179098/horizontal/part-01.1680709725.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">09:27</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Part 01 Competition Breakdown: Cole Abate</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085134&amp;permalink=part-02-competition-breakdown-cole-abate-2023-ibjjf-pan-ams"
+    class="content-item block cursor-pointer"
+    data-cid="3085134"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Part 02 Competition Breakdown: Cole Abate" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2179159/horizontal/part-02.1680710417.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2179159/horizontal/part-02.1680710417.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2179159/horizontal/part-02.1680710417.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2179159/horizontal/part-02.1680710417.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">09:42</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Part 02 Competition Breakdown: Cole Abate</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085135&amp;permalink=part-03-competition-breakdown-cole-abate-2023-ibjjf-pan-ams"
+    class="content-item block cursor-pointer"
+    data-cid="3085135"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Part 03 Competition Breakdown: Cole Abate" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2179194/horizontal/part-03.1680710446.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2179194/horizontal/part-03.1680710446.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2179194/horizontal/part-03.1680710446.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2179194/horizontal/part-03.1680710446.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">07:25</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Part 03 Competition Breakdown: Cole Abate</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085145&amp;permalink=competition-breakdown-pablo-lavaselli-pan-ams-2023"
+    class="content-item block cursor-pointer"
+    data-cid="3085145"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Competition Breakdown: Pablo Lavaselli" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2183536/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2183536/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2183536/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2183536/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">14:39</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Competition Breakdown: Pablo Lavaselli</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085136&amp;permalink=2023-ibjjf-pan-am-champion-tainan-dalpra"
+    class="content-item block cursor-pointer"
+    data-cid="3085136"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="2023 IBJJF Pan Am Champion Tainan Dalpra" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2172122/horizontal/tainan-pan-ams.1682455516.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2172122/horizontal/tainan-pan-ams.1682455516.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2172122/horizontal/tainan-pan-ams.1682455516.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2172122/horizontal/tainan-pan-ams.1682455516.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:03</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">2023 IBJJF Pan Am Champion Tainan Dalpra</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085137&amp;permalink=johnatha-alves-talks-about-winning-his-4th-pan-ams-title"
+    class="content-item block cursor-pointer"
+    data-cid="3085137"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Johnatha Alves talks about winning his 4th Pan Ams title" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2172116/horizontal/john-pan-ams.1682455898.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2172116/horizontal/john-pan-ams.1682455898.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2172116/horizontal/john-pan-ams.1682455898.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2172116/horizontal/john-pan-ams.1682455898.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">01:27</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Johnatha Alves talks about winning his 4th Pan Ams title</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085138&amp;permalink=tainan-dalpra-talks-about-his-opponents-2023-pan-ams"
+    class="content-item block cursor-pointer"
+    data-cid="3085138"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Tainan Dalpra talks about his opponents at the 2023 Pan Ams" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2172124/horizontal/thumbnail.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2172124/horizontal/thumbnail.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2172124/horizontal/thumbnail.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2172124/horizontal/thumbnail.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">01:28</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Tainan Dalpra talks about his opponents at the 2023 Pan Ams</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085139&amp;permalink=cole-abate-wins-the-brown-belt-lightweight-division-pan-ams-2023"
+    class="content-item block cursor-pointer"
+    data-cid="3085139"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Cole Abate wins the brown belt lightweight division" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2165553/horizontal/c.1680036420.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2165553/horizontal/c.1680036420.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2165553/horizontal/c.1680036420.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2165553/horizontal/c.1680036420.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">06:50</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Cole Abate wins the brown belt lightweight division</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085143&amp;permalink=cole-abate-interview-pan-ams-2023"
+    class="content-item block cursor-pointer"
+    data-cid="3085143"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Cole Abate shares about his performance, preparing for the black belt and more" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2154691/horizontal/dsc09984.1679622021.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2154691/horizontal/dsc09984.1679622021.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2154691/horizontal/dsc09984.1679622021.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2154691/horizontal/dsc09984.1679622021.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:58</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Cole Abate shares about his performance, preparing for the black belt and more</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085142&amp;permalink=gui-interview-44341-86aeca"
+    class="content-item block cursor-pointer"
+    data-cid="3085142"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Gui Mendes talks about Cole Abate, black belt preparation and more" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2154685/horizontal/dsc09871.1679621774.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2154685/horizontal/dsc09871.1679621774.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2154685/horizontal/dsc09871.1679621774.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2154685/horizontal/dsc09871.1679621774.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:06</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Gui Mendes talks about Cole Abate, black belt preparation and more</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085411&amp;permalink=gui-mendes-talks-gustavo-ogawa-steve-gomez"
+    class="content-item block cursor-pointer"
+    data-cid="3085411"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Gui Mendes talks about Gustavo Ogawa &amp; Steve Gomez" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2166204/horizontal/g.1680039346.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2166204/horizontal/g.1680039346.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2166204/horizontal/g.1680039346.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2166204/horizontal/g.1680039346.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">01:45</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Gui Mendes talks about Gustavo Ogawa &amp; Steve Gomez</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085412&amp;permalink=gustavo-ogawa-closes-out-purple-belt-featherweight"
+    class="content-item block cursor-pointer"
+    data-cid="3085412"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Gustavo Ogawa closes out purple belt featherweight with Steve Gomez" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2165902/horizontal/g.1680038394.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2165902/horizontal/g.1680038394.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2165902/horizontal/g.1680038394.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2165902/horizontal/g.1680038394.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:55</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Gustavo Ogawa closes out purple belt featherweight with Steve Gomez</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085413&amp;permalink=steve-gomez-talks-closing-out-with-teammate-gustavo-ogawa"
+    class="content-item block cursor-pointer"
+    data-cid="3085413"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Steve Gomez talks closing out with teammate Gustavo Ogawa" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2166050/horizontal/s.1680038443.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2166050/horizontal/s.1680038443.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2166050/horizontal/s.1680038443.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2166050/horizontal/s.1680038443.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">01:04</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Steve Gomez talks closing out with teammate Gustavo Ogawa</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085146&amp;permalink=double-gold-performance-felipe-goulart"
+    class="content-item block cursor-pointer"
+    data-cid="3085146"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Double gold performance by Felipe Goulart" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2167605/horizontal/felipe.1680107745.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2167605/horizontal/felipe.1680107745.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2167605/horizontal/felipe.1680107745.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2167605/horizontal/felipe.1680107745.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">03:24</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Double gold performance by Felipe Goulart</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085144&amp;permalink=ashlee-and-mia-funegra-win-double-gold"
+    class="content-item block cursor-pointer"
+    data-cid="3085144"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Ashlee and Mia Funegra win double gold " class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2167350/horizontal/funegras.1680105681.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2167350/horizontal/funegras.1680105681.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2167350/horizontal/funegras.1680105681.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2167350/horizontal/funegras.1680105681.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">04:30</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Ashlee and Mia Funegra win double gold </p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085140&amp;permalink=juvenile-champion-pedro-fontes-at-2023-pan-ams"
+    class="content-item block cursor-pointer"
+    data-cid="3085140"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Juvenile champion Pedro Fontes at 2023 Pan Ams" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2167609/horizontal/pedro.1680107627.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2167609/horizontal/pedro.1680107627.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2167609/horizontal/pedro.1680107627.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2167609/horizontal/pedro.1680107627.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:16</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Juvenile champion Pedro Fontes at 2023 Pan Ams</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <a
+    href="/programs/2023-competition-season?cid=3085141&amp;permalink=max-schwarz-captures-double-gold"
+    class="content-item block cursor-pointer"
+    data-cid="3085141"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Max Schwartz captures double gold at Pan Ams" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2167613/horizontal/max.1680107505.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2167613/horizontal/max.1680107505.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2167613/horizontal/max.1680107505.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2167613/horizontal/max.1680107505.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">02:43</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Max Schwartz captures double gold at Pan Ams</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+                <div class="playlist-divider col-span-full" data-area="playlist-divider">
+    2023 IBJJF Los Angeles Open
+  </div>
+
+                <a
+    href="/programs/2023-competition-season?cid=3108168&amp;permalink=competition-breakdown-ibjjf-los-angeles-open"
+    class="content-item block cursor-pointer"
+    data-cid="3108168"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Competition Breakdown: IBJJF Los Angeles Open" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2248152/horizontal/cole-la.1683732633.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2248152/horizontal/cole-la.1683732633.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2248152/horizontal/cole-la.1683732633.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2248152/horizontal/cole-la.1683732633.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">12:12</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Competition Breakdown: IBJJF Los Angeles Open</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+          </div>
+        </ds-show-more>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+</turbo-frame></template></turbo-stream></body></html>

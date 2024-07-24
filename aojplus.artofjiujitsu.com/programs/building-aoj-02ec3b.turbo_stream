@@ -1,0 +1,180 @@
+<!DOCTYPE html><html><head><meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="4F-_IvUarI3BsldOIrtpHRrUbXa_kaFfXmKeR_rgqK3fQOxxHAz8iU4363FA7SC2V-C3m-l12sA5wr9-lzaP1w" /></head><body>
+<turbo-stream action="update" target="program_show"><template>
+  <turbo-frame data-viewing-session-id="9d932eaf2c02a8ee214c6e0c0449efd598c02d349c9c1f8ab99ed7ca76340009" id="program_player">
+      <div class="hidden"
+     data-controller="integrations"
+     data-integrations-facebook-pixel-enabled-value="false"
+     data-integrations-google-tag-manager-enabled-value="true"
+     data-integrations-google-analytics-enabled-value="true"
+>
+  <span class="hidden"
+        data-integrations-target="gTag"
+        data-event="ViewContent"
+        data-payload-attributes='["content_name"]'
+        data-payload-values='[&quot;Building AOJ 02&quot;]'
+  ></span>
+  <span class="hidden"
+        data-integrations-target="fbPx"
+        data-event="ViewContent"
+        data-payload-attributes='["content_name"]'
+        data-payload-values='[&quot;Building AOJ 02&quot;]'
+  ></span>
+</div>
+
+<div class="collection pt-0 lg:pt-4">
+    <div
+      class='container hotwired'
+      data-controller="program"
+      data-program-id="2186194"
+    >
+      <div>
+
+        
+<div class="collection-header block md:flex items-start justify-between mb-6" id="collection_header">
+  <div class="flex-1 md:me-4">
+    <p class="collection-lable text-primary text-ds-tiny-bold-uppercase mb-1">
+      <ds-icon class="inline-block align-sub" size="16px" name='playlist'></ds-icon> Collection
+    </p>
+    <h1 class="collection-title text-ds-title-2-semi-bold mb-4 md:mb-0 max-w-full mt-1" data-area="collection-title">
+      Building AOJ 02
+    </h1>
+  </div>
+  <div>
+      <div class="collection-buttons flex mt-4 lg:items-start lg:mt-0 gap-2" data-area="program-buttons">
+        <ds-button
+          data-turbo="true" data-turbo-frame="program_show" data-turbo-action="advance"
+          variant="primary"
+          href="/programs/building-aoj-02?cid=3184811"
+          class="collection-buttons--watch w-auto min-w-fit"
+        >
+            Start watching
+        </ds-button>
+
+        
+
+        <ds-button
+          class="collection-buttons--share w-full lg:w-auto"
+          data-controller="share-button"
+          only-icon
+          lg="only-icon:false"
+          data-action="click->share-button#show"
+          data-share-button-content-value='{"main_poster":"https://alpha.uscreencdn.com/images/programs/2186194/horizontal/small_new-building-aoj-02-16x9.1684117193.jpg"}'
+          data-area="share-button">
+          <ds-icon slot="before" name='share'></ds-icon>
+          <span class="hidden lg:!inline">Share</span>
+        </ds-button>
+      </div>
+  </div>
+</div>
+
+        <div class="content-about w-full lg:mt-1 mt-5" id="program_about">
+          
+  <ds-show-more
+    style="--ds-show-more-fade-color: var(--section-background-color);"
+    lines="6"
+    class="mt-1"
+    float="left"
+    show-more-title="Show more"
+    show-less-title="Show less"
+  >
+    <div
+      class="content-description program-description-text"
+      slot="content"
+      data-area="about-description"
+      data-controller="timestamp"
+    >
+      <div class="editor-content"><p>An exclusive look into the behind the scenes work and preparation of opening the second Art of Jiu Jitsu academy location.</p><br><p>The Building AOJ 02 series is presented by Dollamur.</p><br><p>For grand opening updates, exclusive membership opportunities and more, enroll at <a target="_blank" rel="noopener noreferrer nofollow" href="https://artofjiujitsu.com/pages/mission-viejo">aojmissionviejo.com</a></p></div>
+    </div>
+  </ds-show-more>
+
+  <div class="content-categories flex flex-wrap mt-5" data-area="program-categories">
+      <a class="category block dark:bg-white dark:text-black rounded bg-black text-white py-1 px-3 text-sm font-bold me-2 mb-2" data-area="category-item" href="/categories/originals">Originals</a>
+  </div>
+  <turbo-frame loading="lazy" id="program_resources" src="/programs/building-aoj-02/resources"></turbo-frame>
+
+        </div>
+        <turbo-frame loading="lazy" class="fixed bg-transparent-dark inset-0 flex items-center justify-center z-50 hidden" data-container="true" data-action="click-&gt;program#hideTrailer" id="program_trailer" src="/programs/building-aoj-02/trailer"></turbo-frame>
+      </div>
+    </div>
+
+  <div class="collection-videos relative bg-ds-overlay border-y border-ds-default mt-4" id="program_playlist">
+    <div class="container">
+      <div
+        class="py-8"
+        data-area="playlist"
+      >
+
+        <div class="flex items-center justify-between mb-5">
+          <p class="collection-videos-counter text-ds-tiny-semi-bold-uppercase" data-area="counter">
+            <ds-icon size="16px" class="pr-1 inline-block align-bottom" name='playlist'></ds-icon>
+            Videos (1)
+          </p>
+        </div>
+          <div class="playlist-divider mt-4 mb-3 md:hidden col-span-full" data-area="playlist-divider">
+            
+          </div>
+            <ds-swiper
+              initial-slide="0"
+              class="md:hidden"
+              md="disabled:true"
+              overflow-visible
+              options="{&quot;slidesPerView&quot;:2.3,&quot;spaceBetween&quot;:8}"
+            >
+                <swiper-slide>
+                    <a
+    href="/programs/building-aoj-02?cid=3184811&amp;permalink=building-aoj-02-episode-01"
+    class="content-item block cursor-pointer swiper-slide"
+    data-cid="3184811"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Building AOJ 02 (Episode 01)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2371651/horizontal/episode-01.1687618935.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2371651/horizontal/episode-01.1687618935.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2371651/horizontal/episode-01.1687618935.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2371651/horizontal/episode-01.1687618935.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">19:54</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Building AOJ 02 (Episode 01)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular h-10 overflow-hidden"></p>
+  </a>
+
+                </swiper-slide>
+            </ds-swiper>
+        <ds-show-more
+          style="--ds-show-more-fade-color: transparent;"
+          content-not-clickable
+          class="!hidden md:!block"
+          float="center"
+          disabled="true"
+          once
+          max-height="550"
+          md="disabled:false"
+          lg="max-height:900"
+        >
+          <ds-button slot="button" class="collection-videos-button mt-6">Show all videos</ds-button>
+          <div slot="content" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6" data-area="chapters">
+                <a
+    href="/programs/building-aoj-02?cid=3184811&amp;permalink=building-aoj-02-episode-01"
+    class="content-item block cursor-pointer"
+    data-cid="3184811"
+  >
+    <div class="content-item-video relative">
+      <div aria-hidden="true" style="padding-bottom: 56%;"></div>
+      <img alt="Building AOJ 02 (Episode 01)" class="rounded absolute object-cover h-full w-full top-0 left-0" style="opacity: 1;" srcset="https://alpha.uscreencdn.com/images/programs/2371651/horizontal/episode-01.1687618935.jpg?auto=webp&amp;width=350 350w, https://alpha.uscreencdn.com/images/programs/2371651/horizontal/episode-01.1687618935.jpg?auto=webp&amp;width=700 700w, https://alpha.uscreencdn.com/images/programs/2371651/horizontal/episode-01.1687618935.jpg?auto=webp&amp;width=1050 1050w" loading="lazy" decoding="async" src="https://alpha.uscreencdn.com/images/programs/2371651/horizontal/episode-01.1687618935.jpg" />
+      <div class="badge flex justify-center items-center text-white content-card-badge">
+        <span class="badge-item">19:54</span>
+      </div>
+    </div>
+    <p class="content-item-title mt-2 text-ds-base-regular truncate">Building AOJ 02 (Episode 01)</p>
+    <p class="content-item-description text-ds-muted text-ds-small-regular max-h-10 overflow-hidden"></p>
+  </a>
+
+          </div>
+        </ds-show-more>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+</turbo-frame></template></turbo-stream></body></html>
